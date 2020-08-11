@@ -6,7 +6,7 @@ const expect = chai.expect
 
 const server = require('src/server')
 
-const fakeData = { id: faker.random.number(), description: faker.lorem.sentence() }
+const fakeData = { signed: faker.lorem.sentence(), spoken: faker.lorem.sentence() }
 
 describe('Routes: POST data', () => {
   it('returns ok', done => {
