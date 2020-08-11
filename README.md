@@ -1,4 +1,4 @@
-# LIBRAS
+# Libras
 
 Translation service between a spoken and a signed language.
 

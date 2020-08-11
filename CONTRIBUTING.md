@@ -1,4 +1,4 @@
-# Libras UI Contributing Guide
+# Libras Contributing Guide
 
 Follow these steps for introducing new features or fixing bugs:
 
