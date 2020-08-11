@@ -10,8 +10,8 @@ const Data = require('src/models/data')
 describe('Routes: POST data', () => {
   beforeEach(() => {
     const data = new Data({
-      id: faker.random.number,
-      description: faker.lorem.sentence
+      signed: faker.lorem.sentence(),
+      spoken: faker.lorem.sentence()
     })
     this.req = { body: data }
     this.res = {}
