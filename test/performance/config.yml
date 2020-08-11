@@ -1,0 +1,24 @@
+config:
+  target: 'http://localhost:3000'
+  environments:
+    docker:
+      target: 'http://node_api:3000'
+  phases:
+    - name: "Warm up"
+      duration: 60
+      arrivalRate: 5
+    - name: "Ramp up linearly"
+      duration: 60
+      arrivalRate: 5
+      rampTo: 50
+    - name: "Sustained max load"
+      duration: 120
+      arrivalRate: 50
+    - name: "Cool down linearly"
+      duration: 60
+      arrivalRate: 50
+      rampTo: 5
+  ensure:
+    median: 200 # median latency should be 200ms or less
+    max: 2000 # max latency should be 2s or less
+    maxErrorRate: 1 # error rate should be 1% or less

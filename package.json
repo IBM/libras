@@ -1,0 +1,77 @@
+{
+  "name": "libras",
+  "version": "1.0.0",
+  "description": "Translation service between a spoken and a signed language.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "NODE_PATH=. node src",
+    "dev": "NODE_PATH=. NODE_ENV=dev nodemon src",
+    "test": "npm run test:style && npm run test:unit && npm run test:integration && npm run test:security",
+    "test:style": "standard",
+    "test:unit": "NODE_PATH=. nyc _mocha --exit 'test/unit/**/*.test.js'",
+    "test:integration": "NODE_PATH=. mocha --exit 'test/integration/**/*.test.js'",
+    "test:security": "npm audit --production --audit-level=moderate",
+    "test:performance": "artillery run -c test/performance/config.yml test/performance/all.yml -o logs/performance.log",
+    "cover": "npm run cover:unit && npm run cover:integration && npm run cover:report",
+    "cover:unit": "nyc --silent npm run test:unit",
+    "cover:integration": "nyc --silent --no-clean npm run test:integration",
+    "cover:report": "nyc report --reporter=lcov --reporter=text",
+    "performance:report": "artillery report logs/performance.log"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibm/libras.git"
+  },
+  "keywords": [
+    "translation",
+    "service",
+    "spoken",
+    "signed",
+    "language"
+  ],
+  "author": {
+    "name": "Filipe Correa",
+    "email": "filipecorrea@me.com",
+    "url": "https://github.com/filipecorrea"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibm/libras/issues"
+  },
+  "homepage": "https://github.com/ibm/libras#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^3.23.3",
+    "http-status": "^1.4.2",
+    "joi": "^17.1.1",
+    "lodash": "^4.17.19",
+    "requireindex": "^1.2.0",
+    "swagger-jsdoc": "^4.0.0",
+    "swagger-ui-express": "^4.1.4",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.0"
+  },
+  "devDependencies": {
+    "artillery": "^1.6.1",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "express-list-endpoints": "^5.0.0",
+    "faker": "^4.1.0",
+    "mocha": "^8.0.1",
+    "nodemon": "^2.0.4",
+    "nyc": "^15.1.0",
+    "sinon": "^9.0.2",
+    "sinon-chai": "^3.5.0",
+    "standard": "^14.3.4"
+  },
+  "standard": {
+    "env": [
+      "mocha"
+    ]
+  },
+  "nyc": {
+    "all": true,
+    "temp-directory": "coverage/.nyc_output"
+  }
+}
