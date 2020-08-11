@@ -2,6 +2,8 @@
 
 Translation service between a spoken and a signed language.
 
+Optionally, this application and all the different tests can be [build and run in Docker](https://github.com/IBM/libras/wiki/Build-and-Run-in-Docker).
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org)
