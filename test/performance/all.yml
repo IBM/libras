@@ -1,26 +1,9 @@
 scenarios:
-  - name: "Health check"
-    flow:
-      - get:
-          url: "/health"
-  - name: "Post document"
+  - name: "Post data"
     flow:
       - post:
-          url: "/documents"
-  - name: "Get documents"
+          url: "/data"
+  - name: "Post translate"
     flow:
-      - get:
-          url: "/documents"
-  - name: "Get documents by id"
-    flow:
-      - get:
-          url: "/documents/1"
-  - name: "Update document"
-    flow:
-      - put:
-          url: "/documents/1"
-  - name: "Delete document"
-    flow:
-      - delete:
-          url: "/documents/1"
-  
+      - post:
+          url: "/translate"
