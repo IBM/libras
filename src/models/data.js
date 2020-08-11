@@ -7,21 +7,21 @@
  *        required:
  *          - id
  *        properties:
- *          id:
+ *          signed:
  *            type: string
- *            description: Data unique id.
- *          description:
+ *            description: Text written in signed language.
+ *          spoken:
  *            type: string
- *            description: Data description.
+ *            description: Text written in spoken language.
  *        example:
- *           id: 123
- *           description: Lorem ipsum dolor sit amet.
+ *           signed: Igreja aborto proibir.
+ *           spoken: Igreja proíbe aborto.
  */
 
 class Data {
   constructor (data) {
-    this.id = data.id
-    this.description = data.description
+    this.signed = data.signed
+    this.spoken = data.spoken
   }
 }
 
