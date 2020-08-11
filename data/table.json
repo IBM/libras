@@ -1,0 +1,4581 @@
+{
+  "ADV0_PROPN0_PUNCT0_": {
+    "ADV0_AUX0_DET0_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Where",
+            "part_of_speech": "ADV",
+            "location": [
+              0,
+              5
+            ],
+            "lemma": "where"
+          },
+          {
+            "text": "'s",
+            "part_of_speech": "AUX",
+            "location": [
+              5,
+              7
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              8,
+              11
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "loudspeaker",
+            "part_of_speech": "NOUN",
+            "location": [
+              12,
+              23
+            ],
+            "lemma": "loudspeaker"
+          },
+          {
+            "text": "?",
+            "part_of_speech": "PUNCT",
+            "location": [
+              23,
+              24
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Where's the loudspeaker?",
+            "location": [
+              0,
+              24
+            ]
+          }
+        ]
+      },
+      "libras": "ONDE ALTO-FALANTE?"
+    }
+  },
+  "ADJ0_ADJ1_NOUN0_PUNCT0_": {
+    "ADJ0_ADJ1_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Happy",
+            "part_of_speech": "ADJ",
+            "location": [
+              0,
+              5
+            ],
+            "lemma": "happy"
+          },
+          {
+            "text": "new",
+            "part_of_speech": "ADJ",
+            "location": [
+              6,
+              9
+            ],
+            "lemma": "new"
+          },
+          {
+            "text": "year",
+            "part_of_speech": "NOUN",
+            "location": [
+              10,
+              14
+            ],
+            "lemma": "year"
+          },
+          {
+            "text": "!",
+            "part_of_speech": "PUNCT",
+            "location": [
+              14,
+              15
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Happy new year!",
+            "location": [
+              0,
+              15
+            ]
+          }
+        ]
+      },
+      "libras": "FELIZ ANO NOV@!"
+    }
+  },
+  "NOUN0_NOUN1_PRON0_VERB0_PART0_VERB1_PROPN0_PUNCT0_": {
+    "NOUN0_NOUN1_PRON0_VERB0_PART0_VERB1_ADP0_NOUN2_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Tomorrow",
+            "part_of_speech": "NOUN",
+            "location": [
+              0,
+              8
+            ],
+            "lemma": "tomorrow"
+          },
+          {
+            "text": "night",
+            "part_of_speech": "NOUN",
+            "location": [
+              9,
+              14
+            ],
+            "lemma": "night"
+          },
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              15,
+              16
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "want",
+            "part_of_speech": "VERB",
+            "location": [
+              17,
+              21
+            ],
+            "lemma": "want"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              22,
+              24
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "go",
+            "part_of_speech": "VERB",
+            "location": [
+              25,
+              27
+            ],
+            "lemma": "go"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "ADP",
+            "location": [
+              28,
+              30
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "prom",
+            "part_of_speech": "NOUN",
+            "location": [
+              31,
+              35
+            ],
+            "lemma": "prom"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              35,
+              36
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Tomorrow night I want to go to prom.",
+            "location": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "libras": "AMANHÃ NOITE EU QUERER IR BAILE."
+    }
+  },
+  "PRON0_VERB0_ADJ0_NOUN0_PUNCT0_": {
+    "PRON0_VERB0_DET0_ADJ1_CCONJ0_ADJ0_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "bought",
+            "part_of_speech": "VERB",
+            "location": [
+              2,
+              8
+            ],
+            "lemma": "buy"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              9,
+              10
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "luxurious",
+            "part_of_speech": "ADJ",
+            "location": [
+              11,
+              20
+            ],
+            "lemma": "luxurious"
+          },
+          {
+            "text": "and",
+            "part_of_speech": "CCONJ",
+            "location": [
+              21,
+              24
+            ],
+            "lemma": "and"
+          },
+          {
+            "text": "expensive",
+            "part_of_speech": "ADJ",
+            "location": [
+              25,
+              34
+            ],
+            "lemma": "expensive"
+          },
+          {
+            "text": "deck",
+            "part_of_speech": "NOUN",
+            "location": [
+              35,
+              39
+            ],
+            "lemma": "deck"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              39,
+              40
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I bought a luxurious and expensive deck.",
+            "location": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "libras": "EU COMPRAR BARALHO CAR@."
+    }
+  },
+  "PRON0_VERB0_PART0_VERB1_NOUN0_NOUN1_VERB2_NOUN2_PUNCT0_": {
+    "PRON0_VERB0_PART0_VERB3_DET0_NOUN3_SCONJ0_PRON1_VERB4_ADV0_PART0_VERB2_ADP0_DET0_NOUN2_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "need",
+            "part_of_speech": "VERB",
+            "location": [
+              2,
+              6
+            ],
+            "lemma": "need"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              7,
+              9
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "polish",
+            "part_of_speech": "VERB",
+            "location": [
+              10,
+              16
+            ],
+            "lemma": "polish"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              17,
+              20
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "shoe",
+            "part_of_speech": "NOUN",
+            "location": [
+              21,
+              25
+            ],
+            "lemma": "shoe"
+          },
+          {
+            "text": "until",
+            "part_of_speech": "SCONJ",
+            "location": [
+              26,
+              31
+            ],
+            "lemma": "until"
+          },
+          {
+            "text": "it",
+            "part_of_speech": "PRON",
+            "location": [
+              32,
+              34
+            ],
+            "lemma": "it"
+          },
+          {
+            "text": "shines",
+            "part_of_speech": "VERB",
+            "location": [
+              35,
+              41
+            ],
+            "lemma": "shine"
+          },
+          {
+            "text": "in",
+            "part_of_speech": "ADV",
+            "location": [
+              42,
+              44
+            ],
+            "lemma": "in"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              45,
+              47
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "go",
+            "part_of_speech": "VERB",
+            "location": [
+              48,
+              50
+            ],
+            "lemma": "go"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "ADP",
+            "location": [
+              51,
+              53
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              54,
+              57
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "wedding",
+            "part_of_speech": "NOUN",
+            "location": [
+              58,
+              65
+            ],
+            "lemma": "wedding"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              65,
+              66
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I need to polish the shoe until it shines in to go to the wedding.",
+            "location": [
+              0,
+              66
+            ]
+          }
+        ]
+      },
+      "libras": "EU PRECISAR SAPATO POLIR BRILHAR IR CASAMENTO."
+    }
+  },
+  "NOUN0_NOUN1_ADJ0_PRON0_VERB0_ADJ1_PUNCT0_": {
+    "DET0_NOUN1_ADP0_PRON1_NOUN0_AUX0_ADJ0_PUNCT1_PRON0_AUX0_VERB1_PART0_VERB0_DET1_ADJ1_NOUN2_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "The",
+            "part_of_speech": "DET",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "shoelace",
+            "part_of_speech": "NOUN",
+            "location": [
+              4,
+              12
+            ],
+            "lemma": "shoelace"
+          },
+          {
+            "text": "of",
+            "part_of_speech": "ADP",
+            "location": [
+              13,
+              15
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "my",
+            "part_of_speech": "PRON",
+            "location": [
+              16,
+              18
+            ],
+            "lemma": "my"
+          },
+          {
+            "text": "shoe",
+            "part_of_speech": "NOUN",
+            "location": [
+              19,
+              23
+            ],
+            "lemma": "shoe"
+          },
+          {
+            "text": "is",
+            "part_of_speech": "AUX",
+            "location": [
+              24,
+              26
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "old",
+            "part_of_speech": "ADJ",
+            "location": [
+              27,
+              30
+            ],
+            "lemma": "old"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              30,
+              31
+            ]
+          },
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              32,
+              33
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "'m",
+            "part_of_speech": "AUX",
+            "location": [
+              33,
+              35
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "going",
+            "part_of_speech": "VERB",
+            "location": [
+              36,
+              41
+            ],
+            "lemma": "go"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              42,
+              44
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "buy",
+            "part_of_speech": "VERB",
+            "location": [
+              45,
+              48
+            ],
+            "lemma": "buy"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              49,
+              50
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "new",
+            "part_of_speech": "ADJ",
+            "location": [
+              51,
+              54
+            ],
+            "lemma": "new"
+          },
+          {
+            "text": "one",
+            "part_of_speech": "NOUN",
+            "location": [
+              55,
+              58
+            ],
+            "lemma": "one"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              58,
+              59
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "The shoelace of my shoe is old, I'm going to buy a new one.",
+            "location": [
+              0,
+              59
+            ]
+          }
+        ]
+      },
+      "libras": "SAPATO CADARÇO VELH@ EU COMPRAR NOV@."
+    }
+  },
+  "PRON0_VERB0_ADJ0_ADJ1_NOUN0_PUNCT0_": {
+    "PRON0_VERB0_DET0_ADJ0_ADJ1_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "She",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "she"
+          },
+          {
+            "text": "won",
+            "part_of_speech": "VERB",
+            "location": [
+              4,
+              7
+            ],
+            "lemma": "win"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              8,
+              9
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "beautiful",
+            "part_of_speech": "ADJ",
+            "location": [
+              10,
+              19
+            ],
+            "lemma": "beautiful"
+          },
+          {
+            "text": "blue",
+            "part_of_speech": "ADJ",
+            "location": [
+              20,
+              24
+            ],
+            "lemma": "blue"
+          },
+          {
+            "text": "coat",
+            "part_of_speech": "NOUN",
+            "location": [
+              25,
+              29
+            ],
+            "lemma": "coat"
+          },
+          {
+            "text": "!",
+            "part_of_speech": "PUNCT",
+            "location": [
+              29,
+              30
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "She won a beautiful blue coat!",
+            "location": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "libras": "EL@ GANHAR CASACO AZUL LIND@!"
+    }
+  },
+  "ADJ0_ADJ1_NOUN0_PRON0_VERB0_PUNCT0_": {
+    "DET0_ADJ0_AUX0_ADJ1_CCONJ0_PRON0_VERB0_PRON0_ADP0_DET1_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "The",
+            "part_of_speech": "DET",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "cold",
+            "part_of_speech": "ADJ",
+            "location": [
+              4,
+              8
+            ],
+            "lemma": "cold"
+          },
+          {
+            "text": "was",
+            "part_of_speech": "AUX",
+            "location": [
+              9,
+              12
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "strong",
+            "part_of_speech": "ADJ",
+            "location": [
+              13,
+              19
+            ],
+            "lemma": "strong"
+          },
+          {
+            "text": "and",
+            "part_of_speech": "CCONJ",
+            "location": [
+              20,
+              23
+            ],
+            "lemma": "and"
+          },
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              24,
+              25
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "covered",
+            "part_of_speech": "VERB",
+            "location": [
+              26,
+              33
+            ],
+            "lemma": "cover"
+          },
+          {
+            "text": "myself",
+            "part_of_speech": "PRON",
+            "location": [
+              34,
+              40
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "with",
+            "part_of_speech": "ADP",
+            "location": [
+              41,
+              45
+            ],
+            "lemma": "with"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              46,
+              47
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "sheet",
+            "part_of_speech": "NOUN",
+            "location": [
+              48,
+              53
+            ],
+            "lemma": "sheet"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              53,
+              54
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "The cold was strong and I covered myself with a sheet.",
+            "location": [
+              0,
+              54
+            ]
+          }
+        ]
+      },
+      "libras": "FRI@ FORTE LENÇOL EU COBRIR."
+    }
+  },
+  "VERB0_ADP0_PRON0_NOUN0_VERB1_PUNCT0_": {
+    "VERB0_ADP0_PUNCT1_ADV0_ADP1_DET0_NOUN1_DET0_NOUN0_VERB2_PRON1_VERB3_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Watch",
+            "part_of_speech": "VERB",
+            "location": [
+              0,
+              5
+            ],
+            "lemma": "watch"
+          },
+          {
+            "text": "out",
+            "part_of_speech": "ADP",
+            "location": [
+              6,
+              9
+            ],
+            "lemma": "out"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              9,
+              10
+            ]
+          },
+          {
+            "text": "there",
+            "part_of_speech": "ADV",
+            "location": [
+              11,
+              16
+            ],
+            "lemma": "there"
+          },
+          {
+            "text": "in",
+            "part_of_speech": "ADP",
+            "location": [
+              17,
+              19
+            ],
+            "lemma": "in"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              20,
+              23
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "stio",
+            "part_of_speech": "NOUN",
+            "location": [
+              24,
+              28
+            ]
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              29,
+              32
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "horse",
+            "part_of_speech": "NOUN",
+            "location": [
+              33,
+              38
+            ],
+            "lemma": "horse"
+          },
+          {
+            "text": "gives",
+            "part_of_speech": "VERB",
+            "location": [
+              39,
+              44
+            ],
+            "lemma": "give"
+          },
+          {
+            "text": "you",
+            "part_of_speech": "PRON",
+            "location": [
+              45,
+              48
+            ],
+            "lemma": "you"
+          },
+          {
+            "text": "coice",
+            "part_of_speech": "VERB",
+            "location": [
+              49,
+              54
+            ]
+          },
+          {
+            "text": "!",
+            "part_of_speech": "PUNCT",
+            "location": [
+              54,
+              55
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Watch out, there in the stio the horse gives you coice!",
+            "location": [
+              0,
+              55
+            ]
+          }
+        ]
+      },
+      "libras": "CUIDADO LÁ SÍTIO CAVALO COICE!"
+    }
+  },
+  "VERB0_DET0_NOUN0_VERB1_NOUN1_PUNCT0_": {
+    "NOUN0_AUX0_DET1_NOUN1_CCONJ0_DET2_NOUN2_AUX0_DET0_VERB1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Today",
+            "part_of_speech": "NOUN",
+            "location": [
+              0,
+              5
+            ],
+            "lemma": "today"
+          },
+          {
+            "text": "is",
+            "part_of_speech": "AUX",
+            "location": [
+              6,
+              8
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              9,
+              10
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "holiday",
+            "part_of_speech": "NOUN",
+            "location": [
+              11,
+              18
+            ],
+            "lemma": "holiday"
+          },
+          {
+            "text": "and",
+            "part_of_speech": "CCONJ",
+            "location": [
+              19,
+              22
+            ],
+            "lemma": "and"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              23,
+              26
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "trade",
+            "part_of_speech": "NOUN",
+            "location": [
+              27,
+              32
+            ],
+            "lemma": "trade"
+          },
+          {
+            "text": "is",
+            "part_of_speech": "AUX",
+            "location": [
+              33,
+              35
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "all",
+            "part_of_speech": "DET",
+            "location": [
+              36,
+              39
+            ],
+            "lemma": "all"
+          },
+          {
+            "text": "closed",
+            "part_of_speech": "VERB",
+            "location": [
+              40,
+              46
+            ],
+            "lemma": "close"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              46,
+              47
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Today is a holiday and the trade is all closed.",
+            "location": [
+              0,
+              47
+            ]
+          }
+        ]
+      },
+      "libras": "COMÉRCIO TOD@ HOJE FERIADO FECHAD@."
+    }
+  },
+  "NOUN0_NOUN1_NOUN2_ADV0_NUM0_SYM0_PUNCT0_": {
+    "ADV1_VERB0_DET0_NOUN2_PUNCT1_DET1_NOUN0_ADV0_VERB1_NUM0_SYM0_ADP0_DET1_ADJ0_NOUN3_PART0_NOUN4_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "When",
+            "part_of_speech": "ADV",
+            "location": [
+              0,
+              4
+            ],
+            "lemma": "when"
+          },
+          {
+            "text": "selling",
+            "part_of_speech": "VERB",
+            "location": [
+              5,
+              12
+            ],
+            "lemma": "sell"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              13,
+              14
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "house",
+            "part_of_speech": "NOUN",
+            "location": [
+              15,
+              20
+            ],
+            "lemma": "house"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              20,
+              21
+            ]
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              22,
+              25
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "broker",
+            "part_of_speech": "NOUN",
+            "location": [
+              26,
+              32
+            ],
+            "lemma": "broker"
+          },
+          {
+            "text": "always",
+            "part_of_speech": "ADV",
+            "location": [
+              33,
+              39
+            ],
+            "lemma": "always"
+          },
+          {
+            "text": "charges",
+            "part_of_speech": "VERB",
+            "location": [
+              40,
+              47
+            ],
+            "lemma": "charge"
+          },
+          {
+            "text": "6",
+            "part_of_speech": "NUM",
+            "location": [
+              48,
+              49
+            ]
+          },
+          {
+            "text": "%",
+            "part_of_speech": "SYM",
+            "location": [
+              49,
+              50
+            ]
+          },
+          {
+            "text": "of",
+            "part_of_speech": "ADP",
+            "location": [
+              51,
+              53
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              54,
+              57
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "real",
+            "part_of_speech": "ADJ",
+            "location": [
+              58,
+              62
+            ],
+            "lemma": "real"
+          },
+          {
+            "text": "estate",
+            "part_of_speech": "NOUN",
+            "location": [
+              63,
+              69
+            ],
+            "lemma": "estate"
+          },
+          {
+            "text": "'s",
+            "part_of_speech": "PART",
+            "location": [
+              69,
+              71
+            ],
+            "lemma": "'s"
+          },
+          {
+            "text": "value",
+            "part_of_speech": "NOUN",
+            "location": [
+              72,
+              77
+            ],
+            "lemma": "value"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              77,
+              78
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "When selling a house, the broker always charges 6% of the real estate's value.",
+            "location": [
+              0,
+              78
+            ]
+          }
+        ]
+      },
+      "libras": "CORRETOR VENDER CASA SEMPRE COBRAR 6%."
+    }
+  },
+  "ADJ0_NOUN0_ADJ1_NOUN1_NOUN2_PUNCT0_": {
+    "DET0_NOUN3_VERB0_DET1_ADJ1_NOUN1_NOUN2_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "The",
+            "part_of_speech": "DET",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "woman",
+            "part_of_speech": "NOUN",
+            "location": [
+              4,
+              9
+            ],
+            "lemma": "woman"
+          },
+          {
+            "text": "bought",
+            "part_of_speech": "VERB",
+            "location": [
+              10,
+              16
+            ],
+            "lemma": "buy"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              17,
+              18
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "chic",
+            "part_of_speech": "ADJ",
+            "location": [
+              19,
+              23
+            ],
+            "lemma": "chic"
+          },
+          {
+            "text": "leather",
+            "part_of_speech": "NOUN",
+            "location": [
+              24,
+              31
+            ],
+            "lemma": "leather"
+          },
+          {
+            "text": "coat",
+            "part_of_speech": "NOUN",
+            "location": [
+              32,
+              36
+            ],
+            "lemma": "coat"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              36,
+              37
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "The woman bought a chic leather coat.",
+            "location": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "libras": "MULHER COMPRAR CASACO COURO CHIQUE."
+    }
+  },
+  "PRON0_VERB0_PRON1_VERB1_PUNCT0_": {
+    "PRON0_AUX0_ADJ0_PUNCT1_PRON1_AUX0_VERB1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "You",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "you"
+          },
+          {
+            "text": "'re",
+            "part_of_speech": "AUX",
+            "location": [
+              3,
+              6
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "fake",
+            "part_of_speech": "ADJ",
+            "location": [
+              7,
+              11
+            ],
+            "lemma": "fake"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              11,
+              12
+            ]
+          },
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              13,
+              14
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "'m",
+            "part_of_speech": "AUX",
+            "location": [
+              14,
+              16
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "disappointed",
+            "part_of_speech": "VERB",
+            "location": [
+              17,
+              29
+            ],
+            "lemma": "disappoint"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              29,
+              30
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "You're fake, I'm disappointed.",
+            "location": [
+              0,
+              30
+            ]
+          }
+        ]
+      },
+      "libras": "VOCÊ FALS@ EU DECEPCIONAD@."
+    }
+  },
+  "PRON0_NOUN0_ADV0_ADJ0_NOUN1_PUNCT0_": {
+    "PRON0_NOUN0_ADV0_VERB0_ADJ0_PUNCT1_PRON1_AUX0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Her",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "her"
+          },
+          {
+            "text": "niece",
+            "part_of_speech": "NOUN",
+            "location": [
+              4,
+              9
+            ],
+            "lemma": "niece"
+          },
+          {
+            "text": "always",
+            "part_of_speech": "ADV",
+            "location": [
+              10,
+              16
+            ],
+            "lemma": "always"
+          },
+          {
+            "text": "gets",
+            "part_of_speech": "VERB",
+            "location": [
+              17,
+              21
+            ],
+            "lemma": "get"
+          },
+          {
+            "text": "sad",
+            "part_of_speech": "ADJ",
+            "location": [
+              22,
+              25
+            ],
+            "lemma": "sad"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              25,
+              26
+            ]
+          },
+          {
+            "text": "it",
+            "part_of_speech": "PRON",
+            "location": [
+              27,
+              29
+            ],
+            "lemma": "it"
+          },
+          {
+            "text": "'s",
+            "part_of_speech": "AUX",
+            "location": [
+              29,
+              31
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "depression",
+            "part_of_speech": "NOUN",
+            "location": [
+              32,
+              42
+            ],
+            "lemma": "depression"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              42,
+              43
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Her niece always gets sad, it's depression.",
+            "location": [
+              0,
+              43
+            ]
+          }
+        ]
+      },
+      "libras": "SOBRINH@ DEL@ SEMPRE TRISTE DEPRESSÃO."
+    }
+  },
+  "VERB0_DET0_NOUN0_NOUN1_NOUN2_ADJ0_PUNCT0_": {
+    "DET0_NOUN3_VERB1_DET1_NOUN1_SCONJ0_VERB2_DET1_NOUN0_ADP0_ADJ0_NOUN2_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "That",
+            "part_of_speech": "DET",
+            "location": [
+              0,
+              4
+            ],
+            "lemma": "that"
+          },
+          {
+            "text": "man",
+            "part_of_speech": "NOUN",
+            "location": [
+              5,
+              8
+            ],
+            "lemma": "man"
+          },
+          {
+            "text": "has",
+            "part_of_speech": "VERB",
+            "location": [
+              9,
+              12
+            ],
+            "lemma": "have"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              13,
+              14
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "mania",
+            "part_of_speech": "NOUN",
+            "location": [
+              15,
+              20
+            ],
+            "lemma": "mania"
+          },
+          {
+            "text": "of",
+            "part_of_speech": "SCONJ",
+            "location": [
+              21,
+              23
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "using",
+            "part_of_speech": "VERB",
+            "location": [
+              24,
+              29
+            ],
+            "lemma": "use"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              30,
+              31
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "deodorant",
+            "part_of_speech": "NOUN",
+            "location": [
+              32,
+              41
+            ],
+            "lemma": "deodorant"
+          },
+          {
+            "text": "with",
+            "part_of_speech": "ADP",
+            "location": [
+              42,
+              46
+            ],
+            "lemma": "with"
+          },
+          {
+            "text": "strong",
+            "part_of_speech": "ADJ",
+            "location": [
+              47,
+              53
+            ],
+            "lemma": "strong"
+          },
+          {
+            "text": "smell",
+            "part_of_speech": "NOUN",
+            "location": [
+              54,
+              59
+            ],
+            "lemma": "smell"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              59,
+              60
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "That man has a mania of using a deodorant with strong smell.",
+            "location": [
+              0,
+              60
+            ]
+          }
+        ]
+      },
+      "libras": "HOMEM AQUEL@ MANIA DESODORANTE CHEIRO FORTE."
+    }
+  },
+  "NOUN0_PRON0_VERB0_NOUN1_NUM0_PUNCT0_": {
+    "NOUN0_PRON0_VERB0_NUM0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Yesterday",
+            "part_of_speech": "NOUN",
+            "location": [
+              0,
+              9
+            ],
+            "lemma": "yesterday"
+          },
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              10,
+              11
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "bought",
+            "part_of_speech": "VERB",
+            "location": [
+              12,
+              18
+            ],
+            "lemma": "buy"
+          },
+          {
+            "text": "sixteen",
+            "part_of_speech": "NUM",
+            "location": [
+              19,
+              26
+            ],
+            "lemma": "sixteen"
+          },
+          {
+            "text": "books",
+            "part_of_speech": "NOUN",
+            "location": [
+              27,
+              32
+            ],
+            "lemma": "book"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              32,
+              33
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Yesterday I bought sixteen books.",
+            "location": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "libras": "ONTEM EU COMPRAR LIVRO DEZESSEIS."
+    }
+  },
+  "PRON0_VERB0_PART0_VERB1_NOUN0_NOUN1_PUNCT0_": {
+    "PRON0_VERB0_PART0_VERB1_ADP0_DET0_PROPN0_ADP1_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "want",
+            "part_of_speech": "VERB",
+            "location": [
+              2,
+              6
+            ],
+            "lemma": "want"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              7,
+              9
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "study",
+            "part_of_speech": "VERB",
+            "location": [
+              10,
+              15
+            ],
+            "lemma": "study"
+          },
+          {
+            "text": "at",
+            "part_of_speech": "ADP",
+            "location": [
+              16,
+              18
+            ],
+            "lemma": "at"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              19,
+              22
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "Faculty",
+            "part_of_speech": "PROPN",
+            "location": [
+              23,
+              30
+            ],
+            "lemma": "faculty"
+          },
+          {
+            "text": "of",
+            "part_of_speech": "ADP",
+            "location": [
+              31,
+              33
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "Economics",
+            "part_of_speech": "NOUN",
+            "location": [
+              34,
+              43
+            ],
+            "lemma": "economics"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              43,
+              44
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I want to study at the Faculty of Economics.",
+            "location": [
+              0,
+              44
+            ]
+          }
+        ]
+      },
+      "libras": "EU QUERER ESTUDAR FACULDADE ECONOMIA."
+    }
+  },
+  "VERB0_NOUN0_PRON0_ADV0_PUNCT0_": {
+    "PRON0_AUX0_ADV0_VERB0_ADP0_DET0_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "'ve",
+            "part_of_speech": "AUX",
+            "location": [
+              1,
+              4
+            ],
+            "lemma": "have"
+          },
+          {
+            "text": "never",
+            "part_of_speech": "ADV",
+            "location": [
+              5,
+              10
+            ],
+            "lemma": "never"
+          },
+          {
+            "text": "skied",
+            "part_of_speech": "VERB",
+            "location": [
+              11,
+              16
+            ],
+            "lemma": "ski"
+          },
+          {
+            "text": "in",
+            "part_of_speech": "ADP",
+            "location": [
+              17,
+              19
+            ],
+            "lemma": "in"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              20,
+              23
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "snow",
+            "part_of_speech": "NOUN",
+            "location": [
+              24,
+              28
+            ],
+            "lemma": "snow"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              28,
+              29
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I've never skied in the snow.",
+            "location": [
+              0,
+              29
+            ]
+          }
+        ]
+      },
+      "libras": "ESQUIAR NEVE EU NUNCA."
+    }
+  },
+  "NOUN0_NOUN1_VERB0_PART0_VERB1_PUNCT0_": {
+    "DET0_NOUN0_ADP0_DET0_NOUN1_VERB0_PART0_AUX0_VERB1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "The",
+            "part_of_speech": "DET",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "status",
+            "part_of_speech": "NOUN",
+            "location": [
+              4,
+              10
+            ],
+            "lemma": "status"
+          },
+          {
+            "text": "of",
+            "part_of_speech": "ADP",
+            "location": [
+              11,
+              13
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              14,
+              17
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "association",
+            "part_of_speech": "NOUN",
+            "location": [
+              18,
+              29
+            ],
+            "lemma": "association"
+          },
+          {
+            "text": "needs",
+            "part_of_speech": "VERB",
+            "location": [
+              30,
+              35
+            ],
+            "lemma": "need"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              36,
+              38
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "be",
+            "part_of_speech": "AUX",
+            "location": [
+              39,
+              41
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "modified",
+            "part_of_speech": "VERB",
+            "location": [
+              42,
+              50
+            ],
+            "lemma": "modify"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              50,
+              51
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "The status of the association needs to be modified.",
+            "location": [
+              0,
+              51
+            ]
+          }
+        ]
+      },
+      "libras": "ASSOCIAÇÃO ESTATUTO PRECISAR MODIFICAR."
+    }
+  },
+  "NOUN0_PRON0_VERB0_ADJ0_ADJ1_ADJ1_PUNCT0_": {
+    "PRON0_VERB0_PRON1_PUNCT1_NOUN0_PUNCT1_DET0_ADJ0_ADJ1_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "bought",
+            "part_of_speech": "VERB",
+            "location": [
+              2,
+              8
+            ],
+            "lemma": "buy"
+          },
+          {
+            "text": "it",
+            "part_of_speech": "PRON",
+            "location": [
+              9,
+              11
+            ],
+            "lemma": "it"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              11,
+              12
+            ]
+          },
+          {
+            "text": "yesterday",
+            "part_of_speech": "NOUN",
+            "location": [
+              13,
+              22
+            ],
+            "lemma": "yesterday"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              22,
+              23
+            ]
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              24,
+              25
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "new",
+            "part_of_speech": "ADJ",
+            "location": [
+              26,
+              29
+            ],
+            "lemma": "new"
+          },
+          {
+            "text": "electric",
+            "part_of_speech": "ADJ",
+            "location": [
+              30,
+              38
+            ],
+            "lemma": "electric"
+          },
+          {
+            "text": "iron",
+            "part_of_speech": "NOUN",
+            "location": [
+              39,
+              43
+            ],
+            "lemma": "iron"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              43,
+              44
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I bought it, yesterday, a new electric iron.",
+            "location": [
+              0,
+              44
+            ]
+          }
+        ]
+      },
+      "libras": "ONTEM EU COMPRAR FERRO-ELÉTRIC@ NOV@."
+    }
+  },
+  "PRON0_ADJ0_NOUN0_PART0_VERB0_ADV0_VERB1_PUNCT0_": {
+    "PRON0_AUX0_ADJ0_CCONJ0_PRON0_VERB2_PART0_VERB0_ADV0_PUNCT1_PART0_VERB1_PRON0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "You",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "you"
+          },
+          {
+            "text": "'re",
+            "part_of_speech": "AUX",
+            "location": [
+              3,
+              6
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "weak",
+            "part_of_speech": "ADJ",
+            "location": [
+              7,
+              11
+            ],
+            "lemma": "weak"
+          },
+          {
+            "text": "and",
+            "part_of_speech": "CCONJ",
+            "location": [
+              12,
+              15
+            ],
+            "lemma": "and"
+          },
+          {
+            "text": "you",
+            "part_of_speech": "PRON",
+            "location": [
+              16,
+              19
+            ],
+            "lemma": "you"
+          },
+          {
+            "text": "need",
+            "part_of_speech": "VERB",
+            "location": [
+              20,
+              24
+            ],
+            "lemma": "need"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              25,
+              27
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "eat",
+            "part_of_speech": "VERB",
+            "location": [
+              28,
+              31
+            ],
+            "lemma": "eat"
+          },
+          {
+            "text": "well",
+            "part_of_speech": "ADV",
+            "location": [
+              32,
+              36
+            ],
+            "lemma": "well"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              36,
+              37
+            ]
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              38,
+              40
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "strengthen",
+            "part_of_speech": "VERB",
+            "location": [
+              41,
+              51
+            ],
+            "lemma": "strengthen"
+          },
+          {
+            "text": "yourself",
+            "part_of_speech": "PRON",
+            "location": [
+              52,
+              60
+            ],
+            "lemma": "you"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              60,
+              61
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "You're weak and you need to eat well, to strengthen yourself.",
+            "location": [
+              0,
+              61
+            ]
+          }
+        ]
+      },
+      "libras": "VOCÊ FRAC@ PRECISAR COMER BEM FORTALECER."
+    }
+  },
+  "NOUN0_NOUN1_PRON0_VERB0_PUNCT0_": {
+    "PRON0_VERB0_PART0_VERB1_NOUN2_ADP0_DET0_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "like",
+            "part_of_speech": "VERB",
+            "location": [
+              2,
+              6
+            ],
+            "lemma": "like"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              7,
+              9
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "play",
+            "part_of_speech": "VERB",
+            "location": [
+              10,
+              14
+            ],
+            "lemma": "play"
+          },
+          {
+            "text": "frescobol",
+            "part_of_speech": "NOUN",
+            "location": [
+              15,
+              24
+            ]
+          },
+          {
+            "text": "on",
+            "part_of_speech": "ADP",
+            "location": [
+              25,
+              27
+            ],
+            "lemma": "on"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              28,
+              31
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "beach",
+            "part_of_speech": "NOUN",
+            "location": [
+              32,
+              37
+            ],
+            "lemma": "beach"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              37,
+              38
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I like to play frescobol on the beach.",
+            "location": [
+              0,
+              38
+            ]
+          }
+        ]
+      },
+      "libras": "PRAIA FRESCOBOL EU GOSTAR."
+    }
+  },
+  "PRON0_VERB0_NOUN0_ADJ0_NOUN1_PUNCT0_": {
+    "PRON0_VERB0_PART0_VERB1_NOUN0_PUNCT1_SCONJ0_PRON1_AUX0_ADJ0_ADP0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "love",
+            "part_of_speech": "VERB",
+            "location": [
+              2,
+              6
+            ],
+            "lemma": "love"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              7,
+              9
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "do",
+            "part_of_speech": "VERB",
+            "location": [
+              10,
+              12
+            ],
+            "lemma": "do"
+          },
+          {
+            "text": "gymnastics",
+            "part_of_speech": "NOUN",
+            "location": [
+              13,
+              23
+            ],
+            "lemma": "gymnastics"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              23,
+              24
+            ]
+          },
+          {
+            "text": "because",
+            "part_of_speech": "SCONJ",
+            "location": [
+              25,
+              32
+            ],
+            "lemma": "because"
+          },
+          {
+            "text": "it",
+            "part_of_speech": "PRON",
+            "location": [
+              33,
+              35
+            ],
+            "lemma": "it"
+          },
+          {
+            "text": "'s",
+            "part_of_speech": "AUX",
+            "location": [
+              35,
+              37
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "good",
+            "part_of_speech": "ADJ",
+            "location": [
+              38,
+              42
+            ],
+            "lemma": "good"
+          },
+          {
+            "text": "for",
+            "part_of_speech": "ADP",
+            "location": [
+              43,
+              46
+            ],
+            "lemma": "for"
+          },
+          {
+            "text": "health",
+            "part_of_speech": "NOUN",
+            "location": [
+              47,
+              53
+            ],
+            "lemma": "health"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              53,
+              54
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I love to do gymnastics, because it's good for health.",
+            "location": [
+              0,
+              54
+            ]
+          }
+        ]
+      },
+      "libras": "EU ADORAR GINÁSTICA BO@ SAÚDE."
+    }
+  },
+  "NOUN0_ADJ0_NOUN1_ADJ1_PUNCT0_": {
+    "DET0_NOUN0_VERB0_ADJ0_ADJ1_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "The",
+            "part_of_speech": "DET",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "amazon",
+            "part_of_speech": "NOUN",
+            "location": [
+              4,
+              10
+            ],
+            "lemma": "amazon"
+          },
+          {
+            "text": "has",
+            "part_of_speech": "VERB",
+            "location": [
+              11,
+              14
+            ],
+            "lemma": "have"
+          },
+          {
+            "text": "immense",
+            "part_of_speech": "ADJ",
+            "location": [
+              15,
+              22
+            ],
+            "lemma": "immense"
+          },
+          {
+            "text": "beautiful",
+            "part_of_speech": "ADJ",
+            "location": [
+              23,
+              32
+            ],
+            "lemma": "beautiful"
+          },
+          {
+            "text": "forest",
+            "part_of_speech": "NOUN",
+            "location": [
+              33,
+              39
+            ],
+            "lemma": "forest"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              39,
+              40
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "The amazon has immense beautiful forest.",
+            "location": [
+              0,
+              40
+            ]
+          }
+        ]
+      },
+      "libras": "AMAZONAS FLORESTA IMENS@ BONIT@."
+    }
+  },
+  "VERB0_ADJ0_NOUN0_NOUN1_PUNCT0_": {
+    "VERB0_PUNCT1_DET0_NOUN0_AUX0_ADJ0_PUNCT2_PRON0_VERB1_PART0_VERB2_PRON1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Look",
+            "part_of_speech": "VERB",
+            "location": [
+              0,
+              4
+            ],
+            "lemma": "look"
+          },
+          {
+            "text": "!",
+            "part_of_speech": "PUNCT",
+            "location": [
+              4,
+              5
+            ]
+          },
+          {
+            "text": "The",
+            "part_of_speech": "DET",
+            "location": [
+              6,
+              9
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "window",
+            "part_of_speech": "NOUN",
+            "location": [
+              10,
+              16
+            ],
+            "lemma": "window"
+          },
+          {
+            "text": "is",
+            "part_of_speech": "AUX",
+            "location": [
+              17,
+              19
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "open",
+            "part_of_speech": "ADJ",
+            "location": [
+              20,
+              24
+            ],
+            "lemma": "open"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              24,
+              25
+            ]
+          },
+          {
+            "text": "you",
+            "part_of_speech": "PRON",
+            "location": [
+              26,
+              29
+            ],
+            "lemma": "you"
+          },
+          {
+            "text": "need",
+            "part_of_speech": "VERB",
+            "location": [
+              30,
+              34
+            ],
+            "lemma": "need"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              35,
+              37
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "close",
+            "part_of_speech": "VERB",
+            "location": [
+              38,
+              43
+            ],
+            "lemma": "close"
+          },
+          {
+            "text": "it",
+            "part_of_speech": "PRON",
+            "location": [
+              44,
+              46
+            ],
+            "lemma": "it"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              46,
+              47
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Look!",
+            "location": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "The window is open, you need to close it.",
+            "location": [
+              6,
+              47
+            ]
+          }
+        ]
+      },
+      "libras": "OLHAR JANELA ABERTA FECHAR."
+    }
+  },
+  "NOUN0_ADV0_PUNCT0_PRON0_VERB0_PART0_VERB1_NOUN1_PUNCT1_": {
+    "ADV0_VERB2_PRON1_NOUN0_PUNCT0_PRON0_VERB0_PART0_VERB1_NOUN1_PUNCT1_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Where",
+            "part_of_speech": "ADV",
+            "location": [
+              0,
+              5
+            ],
+            "lemma": "where"
+          },
+          {
+            "text": "is",
+            "part_of_speech": "VERB",
+            "location": [
+              6,
+              8
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "there",
+            "part_of_speech": "PRON",
+            "location": [
+              9,
+              14
+            ],
+            "lemma": "there"
+          },
+          {
+            "text": "dairy",
+            "part_of_speech": "NOUN",
+            "location": [
+              15,
+              20
+            ],
+            "lemma": "dairy"
+          },
+          {
+            "text": "?",
+            "part_of_speech": "PUNCT",
+            "location": [
+              20,
+              21
+            ]
+          },
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              22,
+              23
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "need",
+            "part_of_speech": "VERB",
+            "location": [
+              24,
+              28
+            ],
+            "lemma": "need"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              29,
+              31
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "buy",
+            "part_of_speech": "VERB",
+            "location": [
+              32,
+              35
+            ],
+            "lemma": "buy"
+          },
+          {
+            "text": "butter",
+            "part_of_speech": "NOUN",
+            "location": [
+              36,
+              42
+            ],
+            "lemma": "butter"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              42,
+              43
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Where is there dairy?",
+            "location": [
+              0,
+              21
+            ]
+          },
+          {
+            "text": "I need to buy butter.",
+            "location": [
+              22,
+              43
+            ]
+          }
+        ]
+      },
+      "libras": "LATICÍNIOS ONDE? EU PRECISAR COMPRAR MANTEIGA."
+    }
+  },
+  "PRON0_VERB0_DET0_NOUN0_NOUN1_PUNCT0_": {
+    "PRON0_VERB0_DET0_NOUN0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "You",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "you"
+          },
+          {
+            "text": "take",
+            "part_of_speech": "VERB",
+            "location": [
+              4,
+              8
+            ],
+            "lemma": "take"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              9,
+              12
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "beach",
+            "part_of_speech": "NOUN",
+            "location": [
+              13,
+              18
+            ],
+            "lemma": "beach"
+          },
+          {
+            "text": "chair",
+            "part_of_speech": "NOUN",
+            "location": [
+              19,
+              24
+            ],
+            "lemma": "chair"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              24,
+              25
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "You take the beach chair.",
+            "location": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "libras": "VOCÊ LEVAR CADEIRA PRAIA."
+    }
+  },
+  "ADJ0_NOUN0_ADV0_NOUN1_PUNCT0_": {
+    "NOUN0_AUX0_PART0_ADJ0_ADP0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Marijuana",
+            "part_of_speech": "NOUN",
+            "location": [
+              0,
+              9
+            ],
+            "lemma": "marijuana"
+          },
+          {
+            "text": "is",
+            "part_of_speech": "AUX",
+            "location": [
+              10,
+              12
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "not",
+            "part_of_speech": "PART",
+            "location": [
+              13,
+              16
+            ],
+            "lemma": "not"
+          },
+          {
+            "text": "good",
+            "part_of_speech": "ADJ",
+            "location": [
+              17,
+              21
+            ],
+            "lemma": "good"
+          },
+          {
+            "text": "for",
+            "part_of_speech": "ADP",
+            "location": [
+              22,
+              25
+            ],
+            "lemma": "for"
+          },
+          {
+            "text": "health",
+            "part_of_speech": "NOUN",
+            "location": [
+              26,
+              32
+            ],
+            "lemma": "health"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              32,
+              33
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Marijuana is not good for health.",
+            "location": [
+              0,
+              33
+            ]
+          }
+        ]
+      },
+      "libras": "MACONHA BO@ NÃO SAÚDE."
+    }
+  },
+  "NOUN0_PRON0_VERB0_PROPN0_PROPN1_PUNCT0_": {
+    "NOUN0_PUNCT1_PRON0_VERB0_ADV0_ADP0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Yesterday",
+            "part_of_speech": "NOUN",
+            "location": [
+              0,
+              9
+            ],
+            "lemma": "yesterday"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              9,
+              10
+            ]
+          },
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              11,
+              12
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "arrived",
+            "part_of_speech": "VERB",
+            "location": [
+              13,
+              20
+            ],
+            "lemma": "arrive"
+          },
+          {
+            "text": "home",
+            "part_of_speech": "ADV",
+            "location": [
+              21,
+              25
+            ],
+            "lemma": "home"
+          },
+          {
+            "text": "at",
+            "part_of_speech": "ADP",
+            "location": [
+              26,
+              28
+            ],
+            "lemma": "at"
+          },
+          {
+            "text": "dawn",
+            "part_of_speech": "NOUN",
+            "location": [
+              29,
+              33
+            ],
+            "lemma": "dawn"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              33,
+              34
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Yesterday, I arrived home at dawn.",
+            "location": [
+              0,
+              34
+            ]
+          }
+        ]
+      },
+      "libras": "ONTEM EU CHEGAR CASA MADRUGADA."
+    }
+  },
+  "PRON0_VERB0_NOUN0_ADV0_PUNCT0_": {
+    "PRON0_ADV0_VERB0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "You",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "you"
+          },
+          {
+            "text": "always",
+            "part_of_speech": "ADV",
+            "location": [
+              4,
+              10
+            ],
+            "lemma": "always"
+          },
+          {
+            "text": "talk",
+            "part_of_speech": "VERB",
+            "location": [
+              11,
+              15
+            ],
+            "lemma": "talk"
+          },
+          {
+            "text": "shit",
+            "part_of_speech": "NOUN",
+            "location": [
+              16,
+              20
+            ]
+          },
+          {
+            "text": "!",
+            "part_of_speech": "PUNCT",
+            "location": [
+              20,
+              21
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "You always talk shit!",
+            "location": [
+              0,
+              21
+            ]
+          }
+        ]
+      },
+      "libras": "VOCÊ FALAR MERDA SEMPRE!"
+    }
+  },
+  "NOUN0_NOUN1_NOUN2_PUNCT0_": {
+    "ADP0_PROPN0_PUNCT1_DET0_NOUN1_ADP1_NOUN3_AUX0_ADJ0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "In",
+            "part_of_speech": "ADP",
+            "location": [
+              0,
+              2
+            ],
+            "lemma": "in"
+          },
+          {
+            "text": "Bahia",
+            "part_of_speech": "PROPN",
+            "location": [
+              3,
+              8
+            ]
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              8,
+              9
+            ]
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              10,
+              13
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "majority",
+            "part_of_speech": "NOUN",
+            "location": [
+              14,
+              22
+            ],
+            "lemma": "majority"
+          },
+          {
+            "text": "of",
+            "part_of_speech": "ADP",
+            "location": [
+              23,
+              25
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "people",
+            "part_of_speech": "NOUN",
+            "location": [
+              26,
+              32
+            ],
+            "lemma": "people"
+          },
+          {
+            "text": "are",
+            "part_of_speech": "AUX",
+            "location": [
+              33,
+              36
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "black",
+            "part_of_speech": "ADJ",
+            "location": [
+              37,
+              42
+            ],
+            "lemma": "black"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              42,
+              43
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "In Bahia, the majority of people are black.",
+            "location": [
+              0,
+              43
+            ]
+          }
+        ]
+      },
+      "libras": "BAHIA MAIORIA NEGR@."
+    }
+  },
+  "VERB0_PRON0_VERB1_PART0_VERB2_ADJ0_NOUN0_PUNCT0_": {
+    "PART0_VERB0_DET0_NOUN1_PUNCT1_PRON0_VERB1_PART0_VERB2_DET0_ADJ0_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "To",
+            "part_of_speech": "PART",
+            "location": [
+              0,
+              2
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "film",
+            "part_of_speech": "VERB",
+            "location": [
+              3,
+              7
+            ],
+            "lemma": "film"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              8,
+              11
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "POUNDS",
+            "part_of_speech": "NOUN",
+            "location": [
+              12,
+              18
+            ],
+            "lemma": "pound"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              18,
+              19
+            ]
+          },
+          {
+            "text": "you",
+            "part_of_speech": "PRON",
+            "location": [
+              20,
+              23
+            ],
+            "lemma": "you"
+          },
+          {
+            "text": "need",
+            "part_of_speech": "VERB",
+            "location": [
+              24,
+              28
+            ],
+            "lemma": "need"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              29,
+              31
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "wear",
+            "part_of_speech": "VERB",
+            "location": [
+              32,
+              36
+            ],
+            "lemma": "wear"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              37,
+              40
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "black",
+            "part_of_speech": "ADJ",
+            "location": [
+              41,
+              46
+            ],
+            "lemma": "black"
+          },
+          {
+            "text": "blouse",
+            "part_of_speech": "NOUN",
+            "location": [
+              47,
+              53
+            ],
+            "lemma": "blouse"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              53,
+              54
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "To film the POUNDS, you need to wear the black blouse.",
+            "location": [
+              0,
+              54
+            ]
+          }
+        ]
+      },
+      "libras": "FILMAR LIBRAS VOCÊ PRECISAR VESTIR BLUSA PRET@."
+    }
+  },
+  "NOUN0_PRON0_ADV0_VERB0_PUNCT0_": {
+    "PRON0_ADV0_VERB0_DET0_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "almost",
+            "part_of_speech": "ADV",
+            "location": [
+              2,
+              8
+            ],
+            "lemma": "almost"
+          },
+          {
+            "text": "won",
+            "part_of_speech": "VERB",
+            "location": [
+              9,
+              12
+            ],
+            "lemma": "win"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              13,
+              16
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "lottery",
+            "part_of_speech": "NOUN",
+            "location": [
+              17,
+              24
+            ],
+            "lemma": "lottery"
+          },
+          {
+            "text": "!",
+            "part_of_speech": "PUNCT",
+            "location": [
+              24,
+              25
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I almost won the lottery!",
+            "location": [
+              0,
+              25
+            ]
+          }
+        ]
+      },
+      "libras": "LOTERIA EU QUASE GANHAR!"
+    }
+  },
+  "PRON0_NOUN0_VERB0_PART0_VERB1_PUNCT0_": {
+    "PRON0_AUX0_ADP0_NOUN0_PUNCT1_PRON0_VERB0_PART0_VERB1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "'m",
+            "part_of_speech": "AUX",
+            "location": [
+              1,
+              3
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "with",
+            "part_of_speech": "ADP",
+            "location": [
+              4,
+              8
+            ],
+            "lemma": "with"
+          },
+          {
+            "text": "depression",
+            "part_of_speech": "NOUN",
+            "location": [
+              9,
+              19
+            ],
+            "lemma": "depression"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              19,
+              20
+            ]
+          },
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              21,
+              22
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "need",
+            "part_of_speech": "VERB",
+            "location": [
+              23,
+              27
+            ],
+            "lemma": "need"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              28,
+              30
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "react",
+            "part_of_speech": "VERB",
+            "location": [
+              31,
+              36
+            ],
+            "lemma": "react"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              36,
+              37
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I'm with depression, I need to react.",
+            "location": [
+              0,
+              37
+            ]
+          }
+        ]
+      },
+      "libras": "EU DEPRESSÃO PRECISAR REAGIR."
+    }
+  },
+  "ADJ0_NOUN0_NOUN1_ADP0_PRON0_NOUN2_PUNCT0_": {
+    "PRON0_AUX0_DET0_NOUN2_ADP1_DET0_ADJ0_NOUN0_ADP0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "am",
+            "part_of_speech": "AUX",
+            "location": [
+              2,
+              4
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              5,
+              8
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "reservation",
+            "part_of_speech": "NOUN",
+            "location": [
+              9,
+              20
+            ],
+            "lemma": "reservation"
+          },
+          {
+            "text": "of",
+            "part_of_speech": "ADP",
+            "location": [
+              21,
+              23
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              24,
+              27
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "deaf",
+            "part_of_speech": "ADJ",
+            "location": [
+              28,
+              32
+            ],
+            "lemma": "deaf"
+          },
+          {
+            "text": "game",
+            "part_of_speech": "NOUN",
+            "location": [
+              33,
+              37
+            ],
+            "lemma": "game"
+          },
+          {
+            "text": "against",
+            "part_of_speech": "ADP",
+            "location": [
+              38,
+              45
+            ],
+            "lemma": "against"
+          },
+          {
+            "text": "listeners",
+            "part_of_speech": "NOUN",
+            "location": [
+              46,
+              55
+            ],
+            "lemma": "listener"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              55,
+              56
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I am the reservation of the deaf game against listeners.",
+            "location": [
+              0,
+              56
+            ]
+          }
+        ]
+      },
+      "libras": "JOGO SURDOS OUVINTES CONTRA EU RESERVA."
+    }
+  },
+  "NOUN0_PRON0_VERB0_NOUN1_PUNCT0_": {
+    "NOUN0_PRON0_AUX0_VERB0_DET0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Tomorrow",
+            "part_of_speech": "NOUN",
+            "location": [
+              0,
+              8
+            ],
+            "lemma": "tomorrow"
+          },
+          {
+            "text": "she",
+            "part_of_speech": "PRON",
+            "location": [
+              9,
+              12
+            ],
+            "lemma": "she"
+          },
+          {
+            "text": "will",
+            "part_of_speech": "AUX",
+            "location": [
+              13,
+              17
+            ],
+            "lemma": "will"
+          },
+          {
+            "text": "redress",
+            "part_of_speech": "VERB",
+            "location": [
+              18,
+              25
+            ],
+            "lemma": "redress"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              26,
+              29
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "couch",
+            "part_of_speech": "NOUN",
+            "location": [
+              30,
+              35
+            ],
+            "lemma": "couch"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              35,
+              36
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Tomorrow she will redress the couch.",
+            "location": [
+              0,
+              36
+            ]
+          }
+        ]
+      },
+      "libras": "AMANHÃ EL@ REVESTIR SOFÁ."
+    }
+  },
+  "ADJ0_PROPN0_PRON0_VERB0_ADJ1_NOUN0_PUNCT0_": {
+    "PRON0_AUX0_VERB0_ADP0_DET0_NOUN0_ADP1_PROPN1_ADJ0_PROPN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "will",
+            "part_of_speech": "AUX",
+            "location": [
+              2,
+              6
+            ],
+            "lemma": "will"
+          },
+          {
+            "text": "go",
+            "part_of_speech": "VERB",
+            "location": [
+              7,
+              9
+            ],
+            "lemma": "go"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "ADP",
+            "location": [
+              10,
+              12
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              13,
+              16
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "course",
+            "part_of_speech": "NOUN",
+            "location": [
+              17,
+              23
+            ],
+            "lemma": "course"
+          },
+          {
+            "text": "of",
+            "part_of_speech": "ADP",
+            "location": [
+              24,
+              26
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "English",
+            "part_of_speech": "PROPN",
+            "location": [
+              27,
+              34
+            ],
+            "lemma": "English"
+          },
+          {
+            "text": "next",
+            "part_of_speech": "ADJ",
+            "location": [
+              35,
+              39
+            ],
+            "lemma": "next"
+          },
+          {
+            "text": "Saturday",
+            "part_of_speech": "PROPN",
+            "location": [
+              40,
+              48
+            ],
+            "lemma": "Saturday"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              48,
+              49
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I will go to the course of English next Saturday.",
+            "location": [
+              0,
+              49
+            ]
+          }
+        ]
+      },
+      "libras": "SÁBADO SEGUINTE EU IR INGLÊS CURSO."
+    }
+  },
+  "PRON0_VERB0_NOUN0_NOUN1_NOUN2_PUNCT0_": {
+    "PRON0_VERB0_ADP0_DET0_PROPN0_ADP1_ADJ0_NOUN1_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "She",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "she"
+          },
+          {
+            "text": "studies",
+            "part_of_speech": "VERB",
+            "location": [
+              4,
+              11
+            ],
+            "lemma": "study"
+          },
+          {
+            "text": "at",
+            "part_of_speech": "ADP",
+            "location": [
+              12,
+              14
+            ],
+            "lemma": "at"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              15,
+              18
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "Faculty",
+            "part_of_speech": "PROPN",
+            "location": [
+              19,
+              26
+            ],
+            "lemma": "faculty"
+          },
+          {
+            "text": "of",
+            "part_of_speech": "ADP",
+            "location": [
+              27,
+              29
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "Social",
+            "part_of_speech": "ADJ",
+            "location": [
+              30,
+              36
+            ],
+            "lemma": "social"
+          },
+          {
+            "text": "Service",
+            "part_of_speech": "NOUN",
+            "location": [
+              37,
+              44
+            ],
+            "lemma": "service"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              44,
+              45
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "She studies at the Faculty of Social Service.",
+            "location": [
+              0,
+              45
+            ]
+          }
+        ]
+      },
+      "libras": "EL@ ESTUDAR FACULDADE SERVIÇO SOCIAL."
+    }
+  },
+  "NOUN0_NOUN1_NOUN2_PRON0_VERB0_PUNCT0_": {
+    "PRON0_VERB0_ADJ0_NOUN1_NOUN2_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "like",
+            "part_of_speech": "VERB",
+            "location": [
+              2,
+              6
+            ],
+            "lemma": "like"
+          },
+          {
+            "text": "chocolate",
+            "part_of_speech": "ADJ",
+            "location": [
+              7,
+              16
+            ],
+            "lemma": "chocolate"
+          },
+          {
+            "text": "ice",
+            "part_of_speech": "NOUN",
+            "location": [
+              17,
+              20
+            ],
+            "lemma": "ice"
+          },
+          {
+            "text": "cream",
+            "part_of_speech": "NOUN",
+            "location": [
+              21,
+              26
+            ],
+            "lemma": "cream"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              26,
+              27
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I like chocolate ice cream.",
+            "location": [
+              0,
+              27
+            ]
+          }
+        ]
+      },
+      "libras": "SORVETE CHOCOLATE EU GOSTAR."
+    }
+  },
+  "PRON0_VERB0_ADJ0_NOUN0_NOUN1_PUNCT0_": {
+    "PRON0_VERB0_PART0_VERB1_NOUN1_PUNCT1_ADP0_DET0_NOUN0_AUX0_ADJ0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "wish",
+            "part_of_speech": "VERB",
+            "location": [
+              2,
+              6
+            ],
+            "lemma": "wish"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              7,
+              9
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "play",
+            "part_of_speech": "VERB",
+            "location": [
+              10,
+              14
+            ],
+            "lemma": "play"
+          },
+          {
+            "text": "tennis",
+            "part_of_speech": "NOUN",
+            "location": [
+              15,
+              21
+            ],
+            "lemma": "tennis"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              21,
+              22
+            ]
+          },
+          {
+            "text": "for",
+            "part_of_speech": "ADP",
+            "location": [
+              23,
+              26
+            ],
+            "lemma": "for"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              27,
+              30
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "salary",
+            "part_of_speech": "NOUN",
+            "location": [
+              31,
+              37
+            ],
+            "lemma": "salary"
+          },
+          {
+            "text": "is",
+            "part_of_speech": "AUX",
+            "location": [
+              38,
+              40
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "high",
+            "part_of_speech": "ADJ",
+            "location": [
+              41,
+              45
+            ],
+            "lemma": "high"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              45,
+              46
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I wish to play tennis, for the salary is high.",
+            "location": [
+              0,
+              46
+            ]
+          }
+        ]
+      },
+      "libras": "EU DESEJO TÊNIS SALÁRIO ALT@."
+    }
+  },
+  "PRON0_VERB0_ADJ0_ADJ1_ADJ1_NOUN0_PUNCT0_": {
+    "PRON0_VERB0_DET0_ADJ0_PUNCT1_ADJ2_CCONJ0_ADJ1_NOUN0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              0,
+              1
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "bought",
+            "part_of_speech": "VERB",
+            "location": [
+              2,
+              8
+            ],
+            "lemma": "buy"
+          },
+          {
+            "text": "a",
+            "part_of_speech": "DET",
+            "location": [
+              9,
+              10
+            ],
+            "lemma": "a"
+          },
+          {
+            "text": "beautiful",
+            "part_of_speech": "ADJ",
+            "location": [
+              11,
+              20
+            ],
+            "lemma": "beautiful"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              20,
+              21
+            ]
+          },
+          {
+            "text": "black",
+            "part_of_speech": "ADJ",
+            "location": [
+              22,
+              27
+            ],
+            "lemma": "black"
+          },
+          {
+            "text": "and",
+            "part_of_speech": "CCONJ",
+            "location": [
+              28,
+              31
+            ],
+            "lemma": "and"
+          },
+          {
+            "text": "blue",
+            "part_of_speech": "ADJ",
+            "location": [
+              32,
+              36
+            ],
+            "lemma": "blue"
+          },
+          {
+            "text": "sneaker",
+            "part_of_speech": "NOUN",
+            "location": [
+              37,
+              44
+            ],
+            "lemma": "sneaker"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              44,
+              45
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "I bought a beautiful, black and blue sneaker.",
+            "location": [
+              0,
+              45
+            ]
+          }
+        ]
+      },
+      "libras": "EU COMPRAR TÊNIS PRETO AZUL BONIT@."
+    }
+  },
+  "ADJ0_NOUN0_NOUN1_PART0_VERB0_DET0_ADJ1_PUNCT0_": {
+    "DET1_NOUN0_AUX0_ADJ0_PUNCT1_PRON0_VERB1_PART0_VERB0_DET0_ADJ1_NOUN2_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "The",
+            "part_of_speech": "DET",
+            "location": [
+              0,
+              3
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "broom",
+            "part_of_speech": "NOUN",
+            "location": [
+              4,
+              9
+            ],
+            "lemma": "broom"
+          },
+          {
+            "text": "is",
+            "part_of_speech": "AUX",
+            "location": [
+              10,
+              12
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "bad",
+            "part_of_speech": "ADJ",
+            "location": [
+              13,
+              16
+            ],
+            "lemma": "bad"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              16,
+              17
+            ]
+          },
+          {
+            "text": "I",
+            "part_of_speech": "PRON",
+            "location": [
+              18,
+              19
+            ],
+            "lemma": "I"
+          },
+          {
+            "text": "need",
+            "part_of_speech": "VERB",
+            "location": [
+              20,
+              24
+            ],
+            "lemma": "need"
+          },
+          {
+            "text": "to",
+            "part_of_speech": "PART",
+            "location": [
+              25,
+              27
+            ],
+            "lemma": "to"
+          },
+          {
+            "text": "buy",
+            "part_of_speech": "VERB",
+            "location": [
+              28,
+              31
+            ],
+            "lemma": "buy"
+          },
+          {
+            "text": "another",
+            "part_of_speech": "DET",
+            "location": [
+              32,
+              39
+            ],
+            "lemma": "another"
+          },
+          {
+            "text": "new",
+            "part_of_speech": "ADJ",
+            "location": [
+              40,
+              43
+            ],
+            "lemma": "new"
+          },
+          {
+            "text": "one",
+            "part_of_speech": "NOUN",
+            "location": [
+              44,
+              47
+            ],
+            "lemma": "one"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              47,
+              48
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "The broom is bad, I need to buy another new one.",
+            "location": [
+              0,
+              48
+            ]
+          }
+        ]
+      },
+      "libras": "VASSOURA RUIM PRECISAR COMPRAR OUTR@ NOV@."
+    }
+  },
+  "VERB0_PRON0_NOUN0_VERB1_ADP0_ADJ0_NOUN1_PUNCT0_": {
+    "VERB0_ADV0_PUNCT1_DET0_NOUN1_ADP0_DET0_NOUN2_ADP1_DET1_NOUN0_AUX0_ADJ0_PUNCT0_": {
+      "syntax": {
+        "tokens": [
+          {
+            "text": "Look",
+            "part_of_speech": "VERB",
+            "location": [
+              0,
+              4
+            ],
+            "lemma": "look"
+          },
+          {
+            "text": "there",
+            "part_of_speech": "ADV",
+            "location": [
+              5,
+              10
+            ],
+            "lemma": "there"
+          },
+          {
+            "text": ",",
+            "part_of_speech": "PUNCT",
+            "location": [
+              10,
+              11
+            ]
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              12,
+              15
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "zipper",
+            "part_of_speech": "NOUN",
+            "location": [
+              16,
+              22
+            ],
+            "lemma": "zipper"
+          },
+          {
+            "text": "behind",
+            "part_of_speech": "ADP",
+            "location": [
+              23,
+              29
+            ],
+            "lemma": "behind"
+          },
+          {
+            "text": "the",
+            "part_of_speech": "DET",
+            "location": [
+              30,
+              33
+            ],
+            "lemma": "the"
+          },
+          {
+            "text": "dress",
+            "part_of_speech": "NOUN",
+            "location": [
+              34,
+              39
+            ],
+            "lemma": "dress"
+          },
+          {
+            "text": "of",
+            "part_of_speech": "ADP",
+            "location": [
+              40,
+              42
+            ],
+            "lemma": "of"
+          },
+          {
+            "text": "that",
+            "part_of_speech": "DET",
+            "location": [
+              43,
+              47
+            ],
+            "lemma": "that"
+          },
+          {
+            "text": "woman",
+            "part_of_speech": "NOUN",
+            "location": [
+              48,
+              53
+            ],
+            "lemma": "woman"
+          },
+          {
+            "text": "is",
+            "part_of_speech": "AUX",
+            "location": [
+              54,
+              56
+            ],
+            "lemma": "be"
+          },
+          {
+            "text": "open",
+            "part_of_speech": "ADJ",
+            "location": [
+              57,
+              61
+            ],
+            "lemma": "open"
+          },
+          {
+            "text": ".",
+            "part_of_speech": "PUNCT",
+            "location": [
+              61,
+              62
+            ]
+          }
+        ],
+        "sentences": [
+          {
+            "text": "Look there, the zipper behind the dress of that woman is open.",
+            "location": [
+              0,
+              62
+            ]
+          }
+        ]
+      },
+      "libras": "OLHÁR LÁ MULHER VESTIDO ATRÁS ZÍPER ABERT@."
+    }
+  }
+}

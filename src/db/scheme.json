@@ -1,0 +1,15 @@
+{
+	"Expression": "Expression",
+	"LibrasExpression": "LibrasExpression",
+	"PortugueseExpression": "PortugueseExpression",
+	"TranslationsContexts": "TranslationsContexts",
+	"TboxContext": "TboxContext",
+	"LibrasSyntaxGraphContext": "LibrasSyntaxGraphContext",
+	"PortugueseSyntaxGraphContext": "PortugueseSyntaxGraphContext",
+	"SyntaxTermsContext" : "SyntaxTermsContext",
+	"SyntaxTerm" : "SyntaxTerm",
+	"translates": "translates",
+	"subclassOf": "subclassOf",
+	"goesToTerm": "goesToTerm",
+	"instanceOf": "instanceOf"
+}

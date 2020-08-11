@@ -1,9 +1,0 @@
-scenarios:
-  - name: "Post data"
-    flow:
-      - post:
-          url: "/data"
-  - name: "Post translate"
-    flow:
-      - post:
-          url: "/translate"

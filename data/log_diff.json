@@ -1,0 +1,1548 @@
+{
+  "id": "44",
+  "palavra": "ABRIDOR DE LATA1",
+  "acepcao": "Objeto cortante usado para remover a parte superior de latas de conservas, doces e outras, dando acesso ao seu conteúdo.",
+  "exemplo": "Eu abri a lata de tomate e ele estava podre.",
+  "video": "abridor_de_lata1Sm_Prog001.mp4",
+  "libras": "EU ABRIDOR-DE-LATA-ABRIR TOMATE PODRE.",
+  "img": "abridor_de_lata1Sm_Prog001.jpg",
+  "assunto": "21",
+  "assunto_title": "APARELHO/MÁQUINA",
+  "classe": "SUBSTANTIVO",
+  "url": "cg05.jpg",
+  "origem": "nacional",
+  "mao": "cg05.jpg",
+  "cleanLibras": "EU ABRIDOR-DE-LATA-ABRIR TOMATE PODRE.",
+  "outputLibras": {
+    "input": "EU ABRIDOR-DE-LATA-ABRIR TOMATE PODRE.",
+    "translation": "ME OPENER-CAN-OPEN TOMATO PODRE.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "ME"
+        },
+        "sentence": "ME OPENER-CAN-OPEN TOMATO PODRE.",
+        "object": {
+          "text": "TOMATO PODRE"
+        },
+        "action": {
+          "text": "OPENER-CAN-OPEN"
+        }
+      }
+    ]
+  },
+  "outputExemplo": {
+    "input": "Eu abri a lata de tomate e ele estava podre.",
+    "translation": "I opened the can of tomato and it was rotten.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "I"
+        },
+        "sentence": "I opened the can of tomato and it was rotten.",
+        "object": {
+          "text": "the can"
+        },
+        "action": {
+          "verb": {
+            "text": "open",
+            "tense": "past"
+          },
+          "text": "opened",
+          "normalized": "open"
+        }
+      },
+      {
+        "subject": {
+          "text": "it"
+        },
+        "sentence": "I opened the can of tomato and it was rotten.",
+        "object": {
+          "text": "rotten"
+        },
+        "action": {
+          "verb": {
+            "text": "be",
+            "tense": "future"
+          },
+          "text": "was",
+          "normalized": "be"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "I",
+          "location": [
+            0,
+            1
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "opened",
+          "location": [
+            2,
+            8
+          ],
+          "lemma": "open"
+        },
+        {
+          "text": "the",
+          "location": [
+            9,
+            12
+          ],
+          "lemma": "the"
+        },
+        {
+          "text": "can",
+          "location": [
+            13,
+            16
+          ],
+          "lemma": "can"
+        },
+        {
+          "text": "of",
+          "location": [
+            17,
+            19
+          ],
+          "lemma": "of"
+        },
+        {
+          "text": "tomato",
+          "location": [
+            20,
+            26
+          ],
+          "lemma": "tomato"
+        },
+        {
+          "text": "and",
+          "location": [
+            27,
+            30
+          ],
+          "lemma": "and"
+        },
+        {
+          "text": "it",
+          "location": [
+            31,
+            33
+          ],
+          "lemma": "it"
+        },
+        {
+          "text": "was",
+          "location": [
+            34,
+            37
+          ],
+          "lemma": "be"
+        },
+        {
+          "text": "rotten",
+          "location": [
+            38,
+            44
+          ],
+          "lemma": "rotten"
+        },
+        {
+          "text": ".",
+          "location": [
+            44,
+            45
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "I opened the can of tomato and it was rotten.",
+          "location": [
+            0,
+            45
+          ]
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "id": "48",
+  "palavra": "ABRIL",
+  "acepcao": "Quarto mês do calendário anual, seguinte ao mês de março e anterior ao de maio. Tem 30 dias.",
+  "exemplo": "Eu nasci no mês de abril.",
+  "video": "abrilSm_Prog001.mp4",
+  "libras": "EU NASCER ABRIL.",
+  "img": "abrilSm_Prog001.jpg",
+  "assunto": "7",
+  "assunto_title": "ANO SIDERAL",
+  "classe": "SUBSTANTIVO",
+  "url": "cg05.jpg",
+  "origem": "nacional",
+  "mao": "cg05.jpg",
+  "cleanLibras": "EU NASCER ABRIL.",
+  "outputLibras": {
+    "input": "EU NASCER ABRIL.",
+    "translation": "I WAS BORN APRIL.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "I"
+        },
+        "sentence": "I WAS BORN APRIL.",
+        "action": {
+          "verb": {
+            "text": "BORN",
+            "tense": "past"
+          },
+          "text": "WAS BORN",
+          "normalized": "WAS BORN"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "I",
+          "location": [
+            0,
+            1
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "WAS",
+          "location": [
+            2,
+            5
+          ],
+          "lemma": "be"
+        },
+        {
+          "text": "BORN",
+          "location": [
+            6,
+            10
+          ],
+          "lemma": "bear"
+        },
+        {
+          "text": "APRIL",
+          "location": [
+            11,
+            16
+          ],
+          "lemma": "April"
+        },
+        {
+          "text": ".",
+          "location": [
+            16,
+            17
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "I WAS BORN APRIL.",
+          "location": [
+            0,
+            17
+          ]
+        }
+      ]
+    }
+  },
+  "outputExemplo": {
+    "input": "Eu nasci no mês de abril.",
+    "translation": "I was born in the month of April.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "I"
+        },
+        "sentence": "I was born in the month of April.",
+        "action": {
+          "verb": {
+            "text": "bear",
+            "tense": "past"
+          },
+          "text": "was born",
+          "normalized": "be bear"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "I",
+          "location": [
+            0,
+            1
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "was",
+          "location": [
+            2,
+            5
+          ],
+          "lemma": "be"
+        },
+        {
+          "text": "born",
+          "location": [
+            6,
+            10
+          ],
+          "lemma": "bear"
+        },
+        {
+          "text": "in",
+          "location": [
+            11,
+            13
+          ],
+          "lemma": "in"
+        },
+        {
+          "text": "the",
+          "location": [
+            14,
+            17
+          ],
+          "lemma": "the"
+        },
+        {
+          "text": "month",
+          "location": [
+            18,
+            23
+          ],
+          "lemma": "month"
+        },
+        {
+          "text": "of",
+          "location": [
+            24,
+            26
+          ],
+          "lemma": "of"
+        },
+        {
+          "text": "April",
+          "location": [
+            27,
+            32
+          ],
+          "lemma": "April"
+        },
+        {
+          "text": ".",
+          "location": [
+            32,
+            33
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "I was born in the month of April.",
+          "location": [
+            0,
+            33
+          ]
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "id": "82",
+  "palavra": "ACENDER ISQUEIRO",
+  "acepcao": "Provocar o atrito da pedra que provoca a chama.",
+  "exemplo": "Não consigo acender o cigarro com esse isqueiro!",
+  "video": "acender4Sm_Prog001.mp4",
+  "libras": "CIGARRO ISQUEIRO-ACENDER CONSEGUIR-NÃO!",
+  "img": "acender4Sm_Prog001.jpg",
+  "assunto": "1",
+  "assunto_title": "NENHUM",
+  "classe": "VERBO",
+  "url": "cg07.jpg",
+  "origem": "nacional",
+  "mao": "cg07.jpg",
+  "cleanLibras": "CIGARRO ISQUEIRO-ACENDER CONSEGUIR-NÃO!",
+  "outputLibras": {
+    "input": "CIGARRO ISQUEIRO-ACENDER CONSEGUIR-NÃO!",
+    "translation": "CIGARETTE ISLET-LIGHT UP GET IT-NO!",
+    "semantic_roles": [],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "CIGARETTE",
+          "location": [
+            0,
+            9
+          ],
+          "lemma": "cigarette"
+        },
+        {
+          "text": "ISLET",
+          "location": [
+            10,
+            15
+          ],
+          "lemma": "islet"
+        },
+        {
+          "text": "-",
+          "location": [
+            15,
+            16
+          ]
+        },
+        {
+          "text": "LIGHT",
+          "location": [
+            16,
+            21
+          ],
+          "lemma": "light"
+        },
+        {
+          "text": "UP",
+          "location": [
+            22,
+            24
+          ],
+          "lemma": "UP"
+        },
+        {
+          "text": "GET",
+          "location": [
+            25,
+            28
+          ],
+          "lemma": "get"
+        },
+        {
+          "text": "IT",
+          "location": [
+            29,
+            31
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            31,
+            32
+          ]
+        },
+        {
+          "text": "NO",
+          "location": [
+            32,
+            34
+          ]
+        },
+        {
+          "text": "!",
+          "location": [
+            34,
+            35
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "CIGARETTE ISLET-LIGHT UP GET IT-NO!",
+          "location": [
+            0,
+            35
+          ]
+        }
+      ]
+    }
+  },
+  "outputExemplo": {
+    "input": "Não consigo acender o cigarro com esse isqueiro!",
+    "translation": "I can't light the cigarette with this lighter!",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "I"
+        },
+        "sentence": "I can't light the cigarette with this lighter!",
+        "object": {
+          "text": "the cigarette"
+        },
+        "action": {
+          "verb": {
+            "text": "light",
+            "tense": "future",
+            "negated": true
+          },
+          "text": "light",
+          "normalized": "light"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "I",
+          "location": [
+            0,
+            1
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "ca",
+          "location": [
+            2,
+            4
+          ],
+          "lemma": "can"
+        },
+        {
+          "text": "n't",
+          "location": [
+            4,
+            7
+          ],
+          "lemma": "not"
+        },
+        {
+          "text": "light",
+          "location": [
+            8,
+            13
+          ],
+          "lemma": "light"
+        },
+        {
+          "text": "the",
+          "location": [
+            14,
+            17
+          ],
+          "lemma": "the"
+        },
+        {
+          "text": "cigarette",
+          "location": [
+            18,
+            27
+          ],
+          "lemma": "cigarette"
+        },
+        {
+          "text": "with",
+          "location": [
+            28,
+            32
+          ],
+          "lemma": "with"
+        },
+        {
+          "text": "this",
+          "location": [
+            33,
+            37
+          ],
+          "lemma": "this"
+        },
+        {
+          "text": "lighter",
+          "location": [
+            38,
+            45
+          ],
+          "lemma": "lighter"
+        },
+        {
+          "text": "!",
+          "location": [
+            45,
+            46
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "I can't light the cigarette with this lighter!",
+          "location": [
+            0,
+            46
+          ]
+        }
+      ]
+    }
+  }
+}
+,
+{ Bad Request: unsupported text language: pt
+    at RequestWrapper.formatError (/Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:208:21)
+    at /Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:196:25
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  name: 'Bad Request',
+  code: 400,
+  message: 'unsupported text language: pt',
+  body:
+   '{"language":"pt","error":"unsupported text language: pt","code":400}',
+  headers:
+   { 'content-type': 'application/json; charset=utf-8',
+     'content-length': '81',
+     'cache-control': 'no-cache, no-store',
+     'x-dp-watson-tran-id': 'a3315064835a674d3a29575e163e1353',
+     'content-security-policy': 'default-src \'none\'',
+     pragma: 'no-cache',
+     'x-content-type-options': 'nosniff',
+     'x-frame-options': 'DENY',
+     'x-xss-protection': '1; mode=block',
+     'strict-transport-security': 'max-age=31536000; includeSubDomains;',
+     'x-global-transaction-id': 'a3315064835a674d3a29575e163e1353',
+     'x-edgeconnect-midmile-rtt': '19',
+     'x-edgeconnect-origin-mex-latency': '149',
+     date: 'Thu, 14 Nov 2019 18:30:17 GMT',
+     connection: 'close' } }
+{
+  "id": "103",
+  "palavra": "AÇOITE",
+  "acepcao": "Chicote.",
+  "exemplo": "Meu açoite está velho.",
+  "video": "acoiteSm_Prog001.mp4",
+  "libras": "AÇOITE ME@ VELH@.",
+  "img": "acoiteSm_Prog001.jpg",
+  "assunto": "1",
+  "assunto_title": "NENHUM",
+  "classe": "SUBSTANTIVO",
+  "url": "cg05.jpg",
+  "origem": "nacional",
+  "mao": "cg05.jpg",
+  "cleanLibras": "AÇOITE MEA VELHA."
+}
+,
+{
+  "id": "168",
+  "palavra": "ADVENTISTA",
+  "acepcao": "Aquele que é seguidor do adventismo.",
+  "exemplo": "Ontem participei de um culto adventista.",
+  "video": "adventistaSm_Prog001.mp4",
+  "libras": "ONTEM CULTO A-7 EU PARTICIPAR.",
+  "img": "adventistaSm_Prog001.jpg",
+  "assunto": "1",
+  "assunto_title": "NENHUM",
+  "classe": "ADJETIVO",
+  "url": "cg01.jpg",
+  "origem": "nacional",
+  "mao": "cg01.jpg",
+  "cleanLibras": "ONTEM CULTO A-7 EU PARTICIPAR.",
+  "outputLibras": {
+    "input": "ONTEM CULTO A-7 EU PARTICIPAR.",
+    "translation": "YESTERDAY CULT A-7 I PARTICIPATE.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "I"
+        },
+        "sentence": "YESTERDAY CULT A-7 I PARTICIPATE.",
+        "action": {
+          "verb": {
+            "text": "PARTICIPATE",
+            "tense": "present"
+          },
+          "text": "PARTICIPATE",
+          "normalized": "PARTICIPATE"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "YESTERDAY",
+          "location": [
+            0,
+            9
+          ],
+          "lemma": "yesterday"
+        },
+        {
+          "text": "CULT",
+          "location": [
+            10,
+            14
+          ],
+          "lemma": "cult"
+        },
+        {
+          "text": "A",
+          "location": [
+            15,
+            16
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            16,
+            17
+          ]
+        },
+        {
+          "text": "7",
+          "location": [
+            17,
+            18
+          ]
+        },
+        {
+          "text": "I",
+          "location": [
+            19,
+            20
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "PARTICIPATE",
+          "location": [
+            21,
+            32
+          ],
+          "lemma": "participate"
+        },
+        {
+          "text": ".",
+          "location": [
+            32,
+            33
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "YESTERDAY CULT A-7 I PARTICIPATE.",
+          "location": [
+            0,
+            33
+          ]
+        }
+      ]
+    }
+  },
+  "outputExemplo": {
+    "input": "Ontem participei de um culto adventista.",
+    "translation": "Yesterday I participated in an adventist cult.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "I"
+        },
+        "sentence": "Yesterday I participated in an adventist cult.",
+        "object": {
+          "text": "in an adventist cult"
+        },
+        "action": {
+          "verb": {
+            "text": "participate",
+            "tense": "past"
+          },
+          "text": "participated",
+          "normalized": "participate"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "Yesterday",
+          "location": [
+            0,
+            9
+          ],
+          "lemma": "yesterday"
+        },
+        {
+          "text": "I",
+          "location": [
+            10,
+            11
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "participated",
+          "location": [
+            12,
+            24
+          ],
+          "lemma": "participate"
+        },
+        {
+          "text": "in",
+          "location": [
+            25,
+            27
+          ],
+          "lemma": "in"
+        },
+        {
+          "text": "an",
+          "location": [
+            28,
+            30
+          ],
+          "lemma": "a"
+        },
+        {
+          "text": "adventist",
+          "location": [
+            31,
+            40
+          ]
+        },
+        {
+          "text": "cult",
+          "location": [
+            41,
+            45
+          ],
+          "lemma": "cult"
+        },
+        {
+          "text": ".",
+          "location": [
+            45,
+            46
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Yesterday I participated in an adventist cult.",
+          "location": [
+            0,
+            46
+          ]
+        }
+      ]
+    }
+  }
+}
+,
+{ Bad Request: unsupported text language: no
+    at RequestWrapper.formatError (/Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:208:21)
+    at /Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:196:25
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  name: 'Bad Request',
+  code: 400,
+  message: 'unsupported text language: no',
+  body:
+   '{"language":"no","error":"unsupported text language: no","code":400}',
+  headers:
+   { 'content-type': 'application/json; charset=utf-8',
+     'content-length': '81',
+     'cache-control': 'no-cache, no-store',
+     'x-dp-watson-tran-id': '2c6dec2c1bdcd98920814b2299e99208',
+     'content-security-policy': 'default-src \'none\'',
+     pragma: 'no-cache',
+     'x-content-type-options': 'nosniff',
+     'x-frame-options': 'DENY',
+     'x-xss-protection': '1; mode=block',
+     'strict-transport-security': 'max-age=31536000; includeSubDomains;',
+     'x-global-transaction-id': '2c6dec2c1bdcd98920814b2299e99208',
+     'x-edgeconnect-midmile-rtt': '24',
+     'x-edgeconnect-origin-mex-latency': '140',
+     date: 'Thu, 14 Nov 2019 18:30:27 GMT',
+     connection: 'close' } }
+{
+  "id": "175",
+  "palavra": "AEROMOÇA",
+  "acepcao": "Funcionária da companhia aérea, encarregada de receber, acomodar, informar e atender o passageiro durante todo o tempo da viagem.",
+  "exemplo": "A aeromoça me tratou bem, eu gostei.",
+  "video": "aeromocaSm_Prog001.mp4",
+  "libras": "MULHERsorridente^AVIÃO 3sTRATAR1s B-E-M EU GOSTAR.",
+  "img": "aeromocaSm_Prog001.jpg",
+  "assunto": "16",
+  "assunto_title": "PROFISSÃO/TRABALHO",
+  "classe": "SUBSTANTIVO",
+  "url": "cg07.jpg",
+  "origem": "nacional",
+  "mao": "cg07.jpg",
+  "cleanLibras": "MULHERsorridente^AVIÃO 3sTRATAR1s B-E-M EU GOSTAR."
+}
+,
+{
+  "id": "205",
+  "palavra": "AGASALHAR",
+  "acepcao": "Cobrir com roupas; proteger do frio.",
+  "exemplo": "Eu me agasalhei com um paletó pesado.",
+  "video": "agasalharSm_Prog001.mp4",
+  "libras": "EU AGASALHAR-PALETÓ PESAD@.",
+  "img": "agasalharSm_Prog001.jpg",
+  "assunto": "1",
+  "assunto_title": "NENHUM",
+  "classe": "VERBO",
+  "url": "cg01.jpg",
+  "origem": "nacional",
+  "mao": "cg01.jpg",
+  "cleanLibras": "EU AGASALHAR-PALETÓ PESADA.",
+  "outputLibras": {
+    "input": "EU AGASALHAR-PALETÓ PESADA.",
+    "translation": "ME AGASALAM-HEAVY JACKET.",
+    "semantic_roles": [],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "ME",
+          "location": [
+            0,
+            2
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "AGASALAM",
+          "location": [
+            3,
+            11
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            11,
+            12
+          ]
+        },
+        {
+          "text": "HEAVY",
+          "location": [
+            12,
+            17
+          ],
+          "lemma": "heavy"
+        },
+        {
+          "text": "JACKET",
+          "location": [
+            18,
+            24
+          ],
+          "lemma": "jacket"
+        },
+        {
+          "text": ".",
+          "location": [
+            24,
+            25
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "ME AGASALAM-HEAVY JACKET.",
+          "location": [
+            0,
+            25
+          ]
+        }
+      ]
+    }
+  },
+  "outputExemplo": {
+    "input": "Eu me agasalhei com um paletó pesado.",
+    "translation": "I agitated myself with a heavy jacket.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "I"
+        },
+        "sentence": "I agitated myself with a heavy jacket.",
+        "object": {
+          "text": "myself"
+        },
+        "action": {
+          "verb": {
+            "text": "agitate",
+            "tense": "past"
+          },
+          "text": "agitated",
+          "normalized": "agitate"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "I",
+          "location": [
+            0,
+            1
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "agitated",
+          "location": [
+            2,
+            10
+          ],
+          "lemma": "agitate"
+        },
+        {
+          "text": "myself",
+          "location": [
+            11,
+            17
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "with",
+          "location": [
+            18,
+            22
+          ],
+          "lemma": "with"
+        },
+        {
+          "text": "a",
+          "location": [
+            23,
+            24
+          ],
+          "lemma": "a"
+        },
+        {
+          "text": "heavy",
+          "location": [
+            25,
+            30
+          ],
+          "lemma": "heavy"
+        },
+        {
+          "text": "jacket",
+          "location": [
+            31,
+            37
+          ],
+          "lemma": "jacket"
+        },
+        {
+          "text": ".",
+          "location": [
+            37,
+            38
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "I agitated myself with a heavy jacket.",
+          "location": [
+            0,
+            38
+          ]
+        }
+      ]
+    }
+  }
+}
+,
+{
+  "id": "230",
+  "palavra": "AIPIM",
+  "acepcao": "Variedade de mandioca comestível, consumida em fatias, em forma de farinha, bolos, doces e pudins; macaxeira.",
+  "exemplo": "Minha tia fez um bolo de a-i-p-i-m delicioso!",
+  "video": "aipimSm_Prog001.mp4",
+  "libras": "TI@ ME@ FAZER B-O-L-O A-I-P-I-M DELICIOS@!",
+  "img": "aipimSm_Prog001.jpg",
+  "assunto": "15",
+  "assunto_title": "LEGUME/VERDURA",
+  "classe": "SUBSTANTIVO",
+  "url": "cg01.jpg",
+  "origem": "nacional",
+  "mao": "cg01.jpg",
+  "cleanLibras": "TIA MEA FAZER B-O-L-O A-I-P-I-M DELICIOSA!",
+  "outputLibras": {
+    "input": "TIA MEA FAZER B-O-L-O A-I-P-I-M DELICIOSA!",
+    "translation": "AUNT MEA MAKE B-O-L-O A-I-P-I-M DELIGHTFUL!",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "AUNT MEA"
+        },
+        "sentence": "AUNT MEA MAKE B-O-L-O A-I-P-I-M DELIGHTFUL!",
+        "object": {
+          "text": "B-O-L-O A-I-P-I-M"
+        },
+        "action": {
+          "verb": {
+            "text": "MAKE",
+            "tense": "present"
+          },
+          "text": "MAKE",
+          "normalized": "MAKE"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "AUNT",
+          "location": [
+            0,
+            4
+          ],
+          "lemma": "aunt"
+        },
+        {
+          "text": "MEA",
+          "location": [
+            5,
+            8
+          ]
+        },
+        {
+          "text": "MAKE",
+          "location": [
+            9,
+            13
+          ],
+          "lemma": "make"
+        },
+        {
+          "text": "B",
+          "location": [
+            14,
+            15
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            15,
+            16
+          ]
+        },
+        {
+          "text": "O",
+          "location": [
+            16,
+            17
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            17,
+            18
+          ]
+        },
+        {
+          "text": "L",
+          "location": [
+            18,
+            19
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            19,
+            20
+          ]
+        },
+        {
+          "text": "O",
+          "location": [
+            20,
+            21
+          ]
+        },
+        {
+          "text": "A",
+          "location": [
+            22,
+            23
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            23,
+            24
+          ]
+        },
+        {
+          "text": "I",
+          "location": [
+            24,
+            25
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            25,
+            26
+          ]
+        },
+        {
+          "text": "P",
+          "location": [
+            26,
+            27
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            27,
+            28
+          ]
+        },
+        {
+          "text": "I",
+          "location": [
+            28,
+            29
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            29,
+            30
+          ]
+        },
+        {
+          "text": "M",
+          "location": [
+            30,
+            31
+          ]
+        },
+        {
+          "text": "DELIGHTFUL",
+          "location": [
+            32,
+            42
+          ],
+          "lemma": "delightful"
+        },
+        {
+          "text": "!",
+          "location": [
+            42,
+            43
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "AUNT MEA MAKE B-O-L-O A-I-P-I-M DELIGHTFUL!",
+          "location": [
+            0,
+            43
+          ]
+        }
+      ]
+    }
+  },
+  "outputExemplo": {
+    "input": "Minha tia fez um bolo de a-i-p-i-m delicioso!",
+    "translation": "My aunt made a delicious a-i-p-m-m cake!",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "My aunt"
+        },
+        "sentence": "My aunt made a delicious a-i-p-m-m cake!",
+        "object": {
+          "text": "a delicious a-i-p-m-m cake"
+        },
+        "action": {
+          "verb": {
+            "text": "make",
+            "tense": "past"
+          },
+          "text": "made",
+          "normalized": "make"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "My",
+          "location": [
+            0,
+            2
+          ],
+          "lemma": "my"
+        },
+        {
+          "text": "aunt",
+          "location": [
+            3,
+            7
+          ],
+          "lemma": "aunt"
+        },
+        {
+          "text": "made",
+          "location": [
+            8,
+            12
+          ],
+          "lemma": "make"
+        },
+        {
+          "text": "a",
+          "location": [
+            13,
+            14
+          ],
+          "lemma": "a"
+        },
+        {
+          "text": "delicious",
+          "location": [
+            15,
+            24
+          ],
+          "lemma": "delicious"
+        },
+        {
+          "text": "a",
+          "location": [
+            25,
+            26
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            26,
+            27
+          ]
+        },
+        {
+          "text": "i",
+          "location": [
+            27,
+            28
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            28,
+            29
+          ]
+        },
+        {
+          "text": "p",
+          "location": [
+            29,
+            30
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            30,
+            31
+          ]
+        },
+        {
+          "text": "m",
+          "location": [
+            31,
+            32
+          ]
+        },
+        {
+          "text": "-",
+          "location": [
+            32,
+            33
+          ]
+        },
+        {
+          "text": "m",
+          "location": [
+            33,
+            34
+          ]
+        },
+        {
+          "text": "cake",
+          "location": [
+            35,
+            39
+          ],
+          "lemma": "cake"
+        },
+        {
+          "text": "!",
+          "location": [
+            39,
+            40
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "My aunt made a delicious a-i-p-m-m cake!",
+          "location": [
+            0,
+            40
+          ]
+        }
+      ]
+    }
+  }
+}
+,
+{ Bad Request: unsupported text language: la
+    at RequestWrapper.formatError (/Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:208:21)
+    at /Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:196:25
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  name: 'Bad Request',
+  code: 400,
+  message: 'unsupported text language: la',
+  body:
+   '{"language":"la","error":"unsupported text language: la","code":400}',
+  headers:
+   { 'content-type': 'application/json; charset=utf-8',
+     'content-length': '81',
+     'cache-control': 'no-cache, no-store',
+     'x-dp-watson-tran-id': '15a3135aabe2e68998cc61ce1a719f79',
+     'content-security-policy': 'default-src \'none\'',
+     pragma: 'no-cache',
+     'x-content-type-options': 'nosniff',
+     'x-frame-options': 'DENY',
+     'x-xss-protection': '1; mode=block',
+     'strict-transport-security': 'max-age=31536000; includeSubDomains;',
+     'x-global-transaction-id': '15a3135aabe2e68998cc61ce1a719f79',
+     'x-edgeconnect-midmile-rtt': '24',
+     'x-edgeconnect-origin-mex-latency': '131',
+     date: 'Thu, 14 Nov 2019 18:30:48 GMT',
+     connection: 'close' } }
+{
+  "id": "260",
+  "palavra": "ALFABETO",
+  "acepcao": "Disposição convencional das letras de uma língua.",
+  "exemplo": "O alfabeto tem 23 letras.",
+  "video": "alfabetoSm_Prog001.mp4",
+  "libras": "ALFABETO QUANTIDADE 23.",
+  "img": "alfabetoSm_Prog001.jpg",
+  "assunto": "1",
+  "assunto_title": "NENHUM",
+  "classe": "SUBSTANTIVO",
+  "url": "cg01.jpg",
+  "origem": "nacional",
+  "mao": "cg01.jpg",
+  "cleanLibras": "ALFABETO QUANTIDADE 23."
+}
+,
+{ Bad Request: unsupported text language: gl
+    at RequestWrapper.formatError (/Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:208:21)
+    at /Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:196:25
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  name: 'Bad Request',
+  code: 400,
+  message: 'unsupported text language: gl',
+  body:
+   '{"language":"gl","error":"unsupported text language: gl","code":400}',
+  headers:
+   { 'content-type': 'application/json; charset=utf-8',
+     'content-length': '81',
+     'cache-control': 'no-cache, no-store',
+     'x-dp-watson-tran-id': '8f82bebdf80ac16ca252b026744e967d',
+     'content-security-policy': 'default-src \'none\'',
+     pragma: 'no-cache',
+     'x-content-type-options': 'nosniff',
+     'x-frame-options': 'DENY',
+     'x-xss-protection': '1; mode=block',
+     'strict-transport-security': 'max-age=31536000; includeSubDomains;',
+     'x-global-transaction-id': '8f82bebdf80ac16ca252b026744e967d',
+     'x-edgeconnect-midmile-rtt': '17',
+     'x-edgeconnect-origin-mex-latency': '81',
+     date: 'Thu, 14 Nov 2019 18:30:51 GMT',
+     connection: 'close' } }
+{
+  "id": "276",
+  "palavra": "ALICATE2",
+  "acepcao": "Pequeno instrumento com duas hastes afiadas, usado para cortar unhas ou cutículas.",
+  "exemplo": "Eu cortava as unhas com o alicate e, por acidente, me machuquei.",
+  "video": "alicate2Sm_Prog001.mp4",
+  "libras": "EU ALICATE CORTAR-UNHA ACIDENTE MACHUCAR.",
+  "img": "alicate2Sm_Prog001.jpg",
+  "assunto": "28",
+  "assunto_title": "HIGIENE/SAÚDE",
+  "classe": "SUBSTANTIVO",
+  "url": "cg07.jpg",
+  "origem": "nacional",
+  "mao": "cg07.jpg",
+  "cleanLibras": "EU ALICATE CORTAR-UNHA ACIDENTE MACHUCAR."
+}
+,
+{ Bad Request: unsupported text language: pt
+    at RequestWrapper.formatError (/Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:208:21)
+    at /Users/wallashss/Develop/Apps/libras/nlu/node_modules/ibm-cloud-sdk-core/lib/request-wrapper.js:196:25
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+  name: 'Bad Request',
+  code: 400,
+  message: 'unsupported text language: pt',
+  body:
+   '{"language":"pt","error":"unsupported text language: pt","code":400}',
+  headers:
+   { 'content-type': 'application/json; charset=utf-8',
+     'content-length': '81',
+     'cache-control': 'no-cache, no-store',
+     'x-dp-watson-tran-id': '1e90a0d15d1f12af2666212e12f6df05',
+     'content-security-policy': 'default-src \'none\'',
+     pragma: 'no-cache',
+     'x-content-type-options': 'nosniff',
+     'x-frame-options': 'DENY',
+     'x-xss-protection': '1; mode=block',
+     'strict-transport-security': 'max-age=31536000; includeSubDomains;',
+     'x-global-transaction-id': '1e90a0d15d1f12af2666212e12f6df05',
+     'x-edgeconnect-midmile-rtt': '22',
+     'x-edgeconnect-origin-mex-latency': '99',
+     date: 'Thu, 14 Nov 2019 18:30:57 GMT',
+     connection: 'close' } }
+{
+  "id": "316",
+  "palavra": "AMAPÁ",
+  "acepcao": "Estado do norte do Brasil, que tem como capital a cidade de Macapá.",
+  "exemplo": "O Amapá fica longe do Rio de Janeiro.",
+  "video": "amapaSm_Prog001.mp4",
+  "libras": "AMAPÁ LONGE RIO-DE-JANEIRO.",
+  "img": "amapa1Sm_Prog001.jpg",
+  "assunto": "4",
+  "assunto_title": "PAÍS/ESTADO/CIDADE",
+  "classe": "SUBSTANTIVO",
+  "url": "cg01.jpg",
+  "origem": "nacional",
+  "mao": "cg01.jpg",
+  "cleanLibras": "AMAPÁ LONGE RIO-DE-JANEIRO."
+}
+,

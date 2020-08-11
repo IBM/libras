@@ -1,0 +1,742 @@
+{
+  "id": "30",
+  "palavra": "ABOLIÇÃO",
+  "acepcao": "Revogação ou anulação de uma lei ou ordem.",
+  "exemplo": "Antigamente os escravos negros sofriam. Mais tarde, conseguiram a abolição da escravatura.",
+  "video": "abolicaoSm_Prog001.mp4",
+  "libras": "ANTIGAMENTE NEGR@ SOFRER ESCRAV@-ABOLIÇÃO CONSEGUIR.",
+  "img": "abolicaoSm_Prog001.jpg",
+  "assunto": "1",
+  "assunto_title": "NENHUM",
+  "classe": "SUBSTANTIVO",
+  "url": "cg02.jpg",
+  "origem": "nacional",
+  "mao": "cg02.jpg",
+  "cleanLibras": "ANTIGAMENTE NEGRA SOFRER ESCRAVA-ABOLIÇÃO CONSEGUIR.",
+  "outputLibras": {
+    "input": "ANTIGAMENTE NEGRA SOFRER ESCRAVA-ABOLIÇÃO CONSEGUIR.",
+    "translation": "FORMERLY BLACK SUFFER SLAVERY-ABOLITION SUCCEEDING.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "FORMERLY BLACK"
+        },
+        "sentence": "FORMERLY BLACK SUFFER SLAVERY-ABOLITION SUCCEEDING.",
+        "object": {
+          "text": "SLAVERY-ABOLITION SUCCEEDING"
+        },
+        "action": {
+          "verb": {
+            "text": "SUFFER",
+            "tense": "present"
+          },
+          "text": "SUFFER",
+          "normalized": "SUFFER"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "FORMERLY",
+          "part_of_speech": "ADV",
+          "location": [
+            0,
+            8
+          ],
+          "lemma": "formerly"
+        },
+        {
+          "text": "BLACK",
+          "part_of_speech": "ADJ",
+          "location": [
+            9,
+            14
+          ],
+          "lemma": "black"
+        },
+        {
+          "text": "SUFFER",
+          "part_of_speech": "NOUN",
+          "location": [
+            15,
+            21
+          ]
+        },
+        {
+          "text": "SLAVERY",
+          "part_of_speech": "NOUN",
+          "location": [
+            22,
+            29
+          ],
+          "lemma": "slavery"
+        },
+        {
+          "text": "-",
+          "part_of_speech": "PUNCT",
+          "location": [
+            29,
+            30
+          ]
+        },
+        {
+          "text": "ABOLITION",
+          "part_of_speech": "NOUN",
+          "location": [
+            30,
+            39
+          ],
+          "lemma": "abolition"
+        },
+        {
+          "text": "SUCCEEDING",
+          "part_of_speech": "NOUN",
+          "location": [
+            40,
+            50
+          ]
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            50,
+            51
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "FORMERLY BLACK SUFFER SLAVERY-ABOLITION SUCCEEDING.",
+          "location": [
+            0,
+            51
+          ]
+        }
+      ]
+    }
+  },
+  "outputExemplo": {
+    "input": "Antigamente os escravos negros sofriam. Mais tarde, conseguiram a abolição da escravatura.",
+    "translation": "Formerly the black slaves suffered. Later, they achieved the abolition of slavery.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "they"
+        },
+        "sentence": " Later, they achieved the abolition of slavery.",
+        "object": {
+          "text": "the abolition of slavery"
+        },
+        "action": {
+          "verb": {
+            "text": "achieve",
+            "tense": "past"
+          },
+          "text": "achieved",
+          "normalized": "achieve"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "Formerly",
+          "part_of_speech": "ADV",
+          "location": [
+            0,
+            8
+          ],
+          "lemma": "formerly"
+        },
+        {
+          "text": "the",
+          "part_of_speech": "DET",
+          "location": [
+            9,
+            12
+          ],
+          "lemma": "the"
+        },
+        {
+          "text": "black",
+          "part_of_speech": "ADJ",
+          "location": [
+            13,
+            18
+          ],
+          "lemma": "black"
+        },
+        {
+          "text": "slaves",
+          "part_of_speech": "NOUN",
+          "location": [
+            19,
+            25
+          ],
+          "lemma": "slave"
+        },
+        {
+          "text": "suffered",
+          "part_of_speech": "VERB",
+          "location": [
+            26,
+            34
+          ],
+          "lemma": "suffer"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            34,
+            35
+          ]
+        },
+        {
+          "text": "Later",
+          "part_of_speech": "ADV",
+          "location": [
+            36,
+            41
+          ],
+          "lemma": "late"
+        },
+        {
+          "text": ",",
+          "part_of_speech": "PUNCT",
+          "location": [
+            41,
+            42
+          ]
+        },
+        {
+          "text": "they",
+          "part_of_speech": "PRON",
+          "location": [
+            43,
+            47
+          ],
+          "lemma": "they"
+        },
+        {
+          "text": "achieved",
+          "part_of_speech": "VERB",
+          "location": [
+            48,
+            56
+          ],
+          "lemma": "achieve"
+        },
+        {
+          "text": "the",
+          "part_of_speech": "DET",
+          "location": [
+            57,
+            60
+          ],
+          "lemma": "the"
+        },
+        {
+          "text": "abolition",
+          "part_of_speech": "NOUN",
+          "location": [
+            61,
+            70
+          ],
+          "lemma": "abolition"
+        },
+        {
+          "text": "of",
+          "part_of_speech": "ADP",
+          "location": [
+            71,
+            73
+          ],
+          "lemma": "of"
+        },
+        {
+          "text": "slavery",
+          "part_of_speech": "NOUN",
+          "location": [
+            74,
+            81
+          ],
+          "lemma": "slavery"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            81,
+            82
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Formerly the black slaves suffered.",
+          "location": [
+            0,
+            35
+          ]
+        },
+        {
+          "text": "Later, they achieved the abolition of slavery.",
+          "location": [
+            36,
+            82
+          ]
+        }
+      ]
+    }
+  }
+},
+{
+  "id": "35",
+  "palavra": "ABORTAR1",
+  "acepcao": "Sofrer a perda do feto, prematuramente e por vontade própria; não cumprir todo o período de gestação.",
+  "exemplo": "No Brasil, a mulher grávida só pode abortar em caso de problema de saúde.",
+  "video": "abortar1Sm_Prog001.mp4",
+  "libras": "BRASIL MULHER-GRÁVIDA PODER ABORTAR S-Ó PROBLEMA SAÚDE.",
+  "img": "abortar1Sm_Prog001.jpg",
+  "assunto": "1",
+  "assunto_title": "NENHUM",
+  "classe": "VERBO",
+  "url": "cg02.jpg",
+  "origem": "nacional",
+  "mao": "cg02.jpg",
+  "cleanLibras": "BRASIL MULHER-GRÁVIDA PODER ABORTAR S-Ó PROBLEMA SAÚDE.",
+  "outputLibras": {
+    "input": "BRASIL MULHER-GRÁVIDA PODER ABORTAR S-Ó PROBLEMA SAÚDE.",
+    "translation": "BRAZIL WOMAN-PREGNANT PODER ABORT S-ON HEALTH PROBLEM.",
+    "semantic_roles": [],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "BRAZIL",
+          "part_of_speech": "NOUN",
+          "location": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "WOMAN",
+          "part_of_speech": "NOUN",
+          "location": [
+            7,
+            12
+          ],
+          "lemma": "woman"
+        },
+        {
+          "text": "-",
+          "part_of_speech": "PUNCT",
+          "location": [
+            12,
+            13
+          ]
+        },
+        {
+          "text": "PREGNANT",
+          "part_of_speech": "ADJ",
+          "location": [
+            13,
+            21
+          ],
+          "lemma": "pregnant"
+        },
+        {
+          "text": "PODER",
+          "part_of_speech": "PROPN",
+          "location": [
+            22,
+            27
+          ]
+        },
+        {
+          "text": "ABORT",
+          "part_of_speech": "PROPN",
+          "location": [
+            28,
+            33
+          ]
+        },
+        {
+          "text": "S",
+          "part_of_speech": "PROPN",
+          "location": [
+            34,
+            35
+          ]
+        },
+        {
+          "text": "-",
+          "part_of_speech": "PUNCT",
+          "location": [
+            35,
+            36
+          ]
+        },
+        {
+          "text": "ON",
+          "part_of_speech": "ADP",
+          "location": [
+            36,
+            38
+          ],
+          "lemma": "on"
+        },
+        {
+          "text": "HEALTH",
+          "part_of_speech": "NOUN",
+          "location": [
+            39,
+            45
+          ],
+          "lemma": "health"
+        },
+        {
+          "text": "PROBLEM",
+          "part_of_speech": "NOUN",
+          "location": [
+            46,
+            53
+          ],
+          "lemma": "problem"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            53,
+            54
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "BRAZIL WOMAN-PREGNANT PODER ABORT S-ON HEALTH PROBLEM.",
+          "location": [
+            0,
+            54
+          ]
+        }
+      ]
+    }
+  },
+  "outputExemplo": {
+    "input": "No Brasil, a mulher grávida só pode abortar em caso de problema de saúde.",
+    "translation": "In Brazil, the pregnant woman can only abort in the event of a health problem.",
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "the pregnant woman"
+        },
+        "sentence": "In Brazil, the pregnant woman can only abort in the event of a health problem.",
+        "action": {
+          "verb": {
+            "text": "abort",
+            "tense": "future"
+          },
+          "text": "can only abort",
+          "normalized": "can only abort"
+        }
+      }
+    ],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "In",
+          "part_of_speech": "ADP",
+          "location": [
+            0,
+            2
+          ],
+          "lemma": "in"
+        },
+        {
+          "text": "Brazil",
+          "part_of_speech": "PROPN",
+          "location": [
+            3,
+            9
+          ]
+        },
+        {
+          "text": ",",
+          "part_of_speech": "PUNCT",
+          "location": [
+            9,
+            10
+          ]
+        },
+        {
+          "text": "the",
+          "part_of_speech": "DET",
+          "location": [
+            11,
+            14
+          ],
+          "lemma": "the"
+        },
+        {
+          "text": "pregnant",
+          "part_of_speech": "ADJ",
+          "location": [
+            15,
+            23
+          ],
+          "lemma": "pregnant"
+        },
+        {
+          "text": "woman",
+          "part_of_speech": "NOUN",
+          "location": [
+            24,
+            29
+          ],
+          "lemma": "woman"
+        },
+        {
+          "text": "can",
+          "part_of_speech": "AUX",
+          "location": [
+            30,
+            33
+          ],
+          "lemma": "can"
+        },
+        {
+          "text": "only",
+          "part_of_speech": "ADV",
+          "location": [
+            34,
+            38
+          ],
+          "lemma": "only"
+        },
+        {
+          "text": "abort",
+          "part_of_speech": "VERB",
+          "location": [
+            39,
+            44
+          ],
+          "lemma": "abort"
+        },
+        {
+          "text": "in",
+          "part_of_speech": "ADP",
+          "location": [
+            45,
+            47
+          ],
+          "lemma": "in"
+        },
+        {
+          "text": "the",
+          "part_of_speech": "DET",
+          "location": [
+            48,
+            51
+          ],
+          "lemma": "the"
+        },
+        {
+          "text": "event",
+          "part_of_speech": "NOUN",
+          "location": [
+            52,
+            57
+          ],
+          "lemma": "event"
+        },
+        {
+          "text": "of",
+          "part_of_speech": "ADP",
+          "location": [
+            58,
+            60
+          ],
+          "lemma": "of"
+        },
+        {
+          "text": "a",
+          "part_of_speech": "DET",
+          "location": [
+            61,
+            62
+          ],
+          "lemma": "a"
+        },
+        {
+          "text": "health",
+          "part_of_speech": "NOUN",
+          "location": [
+            63,
+            69
+          ],
+          "lemma": "health"
+        },
+        {
+          "text": "problem",
+          "part_of_speech": "NOUN",
+          "location": [
+            70,
+            77
+          ],
+          "lemma": "problem"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            77,
+            78
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "In Brazil, the pregnant woman can only abort in the event of a health problem.",
+          "location": [
+            0,
+            78
+          ]
+        }
+      ]
+    }
+  }
+}
+{
+  "id": "37",
+  "palavra": "ABORTO",
+  "acepcao": "Expulsão prematura do feto.",
+  "exemplo": "A igreja proibe o aborto.",
+  "video": "abortar1Sm_Prog001.mp4",
+  "libras": "ABORTO IGREJA PROIBIR.",
+  "img": "abortar1Sm_Prog001.jpg",
+  "assunto": "28",
+  "assunto_title": "HIGIENE/SAÚDE",
+  "classe": "SUBSTANTIVO",
+  "url": "cg02.jpg",
+  "origem": "nacional",
+  "mao": "cg02.jpg",
+  "cleanLibras": "ABORTO IGREJA PROIBIR.",
+  "outputLibras": {
+    "input": "ABORTO IGREJA PROIBIR.",
+    "translation": "ABORR CHURCH ABORR.",
+    "semantic_roles": [],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "ABORR",
+          "part_of_speech": "NOUN",
+          "location": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "CHURCH",
+          "part_of_speech": "NOUN",
+          "location": [
+            6,
+            12
+          ],
+          "lemma": "church"
+        },
+        {
+          "text": "ABORR",
+          "part_of_speech": "NOUN",
+          "location": [
+            13,
+            18
+          ]
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            18,
+            19
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "ABORR CHURCH ABORR.",
+          "location": [
+            0,
+            19
+          ]
+        }
+      ]
+    }
+  },
+  "outputExemplo": {
+    "input": "A igreja proibe o aborto.",
+    "translation": "The church forbids abortion.",
+    "semantic_roles": [],
+    "syntax": {
+      "tokens": [
+        {
+          "text": "The",
+          "part_of_speech": "DET",
+          "location": [
+            0,
+            3
+          ],
+          "lemma": "the"
+        },
+        {
+          "text": "church",
+          "part_of_speech": "NOUN",
+          "location": [
+            4,
+            10
+          ],
+          "lemma": "church"
+        },
+        {
+          "text": "forbids",
+          "part_of_speech": "VERB",
+          "location": [
+            11,
+            18
+          ],
+          "lemma": "forbid"
+        },
+        {
+          "text": "abortion",
+          "part_of_speech": "NOUN",
+          "location": [
+            19,
+            27
+          ],
+          "lemma": "abortion"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            27,
+            28
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "The church forbids abortion.",
+          "location": [
+            0,
+            28
+          ]
+        }
+      ]
+    }
+  }
+}
