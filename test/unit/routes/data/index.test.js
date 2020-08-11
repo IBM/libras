@@ -1,16 +1,16 @@
 /* eslint-disable no-unused-expressions */
 const chai = require('chai')
 const expect = chai.expect
-const router = require('src/routes/data')
+const routes = require('src/routes').api
 const listEndpoints = require('express-list-endpoints')
 
 describe('Routes: Data', () => {
   it('exports an express router', () => {
-    expect(router.stack).to.be.an('array')
+    expect(routes.stack).to.be.an('array')
   })
 
   it('defines restful CRUD for data routes', () => {
-    const methods = listEndpoints(router)
+    const methods = listEndpoints(routes)
       .reduce((methods, endpoint) => {
         methods[endpoint.path] = endpoint.methods
         return methods
