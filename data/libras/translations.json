@@ -1,0 +1,30 @@
+[
+  {
+    "_id": {
+      "$oid": "5f5bc418986be0a4820d26e9"
+    },
+    "signed": "NOUN0_ADJ0_NOUN1_VERB0_PUNCT0",
+    "spoken": "ADP0_NOUN0_PUNCT0_VERB0_DET0_NOUN1_ADP1_NOUN2_PUNCT1"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bc4a6986be0a4820d26ec"
+    },
+    "signed": "VERB0_DET0_NOUN0_ADJ0_NOUN1_PUNCT0",
+    "spoken": "ADP0_NOUN0_PRON0_VERB0_DET0_DET1_NOUN1_PUNCT0"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bc4c8986be0a4820d26ef"
+    },
+    "signed": "DET0_NOUN0_PUNCT0_NOUN1_PUNCT1",
+    "spoken": "ADV0_AUX0_DET0_NOUN0_PUNCT0_NOUN1_PUNCT1"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bc4ef986be0a4820d26f2"
+    },
+    "signed": "NOUN0_VERB0_NUM0_NOUN1_PUNCT0",
+    "spoken": "DET0_NOUN0_VERB0_NUM0_NOUN1_PUNCT0"
+  }
+]

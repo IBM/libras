@@ -11,6 +11,12 @@ services:
     ports:
       - 27017:27017
 
+  mongo-seed:
+    build: data
+    container_name: libras_mongo_seed
+    links:
+      - mongo
+
   mongo-express:
     image: mongo-express
     container_name: libras_mongo_express

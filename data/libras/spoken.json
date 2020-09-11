@@ -1,0 +1,385 @@
+[
+  {
+    "_id": {
+      "$oid": "5f5bc418986be0a4820d26e8"
+    },
+    "usage": {
+      "text_units": 1,
+      "text_characters": 33,
+      "features": 0
+    },
+    "syntax": {
+      "tokens": [
+        {
+          "text": "Por",
+          "part_of_speech": "ADP",
+          "location": [
+            0,
+            3
+          ],
+          "lemma": "por"
+        },
+        {
+          "text": "favor",
+          "part_of_speech": "NOUN",
+          "location": [
+            4,
+            9
+          ],
+          "lemma": "favor"
+        },
+        {
+          "text": ",",
+          "part_of_speech": "PUNCT",
+          "location": [
+            9,
+            10
+          ]
+        },
+        {
+          "text": "abra",
+          "part_of_speech": "VERB",
+          "location": [
+            11,
+            15
+          ],
+          "lemma": "abrir"
+        },
+        {
+          "text": "a",
+          "part_of_speech": "DET",
+          "location": [
+            16,
+            17
+          ],
+          "lemma": "o"
+        },
+        {
+          "text": "janela",
+          "part_of_speech": "NOUN",
+          "location": [
+            18,
+            24
+          ],
+          "lemma": "janela"
+        },
+        {
+          "text": "da",
+          "part_of_speech": "ADP",
+          "location": [
+            25,
+            27
+          ],
+          "lemma": "do"
+        },
+        {
+          "text": "sala",
+          "part_of_speech": "NOUN",
+          "location": [
+            28,
+            32
+          ],
+          "lemma": "sala"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            32,
+            33
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Por favor, abra a janela da sala.",
+          "location": [
+            0,
+            33
+          ]
+        }
+      ]
+    },
+    "language": "pt",
+    "warnings": [
+      "semantic_roles: unsupported text language: pt"
+    ],
+    "text": "Por favor, abra a janela da sala.",
+    "hash": "ADP0_NOUN0_PUNCT0_VERB0_DET0_NOUN1_ADP1_NOUN2_PUNCT1",
+    "md5": "3daf42f1d380a17c0875559732f3db9c"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bc4a6986be0a4820d26eb"
+    },
+    "usage": {
+      "text_units": 1,
+      "text_characters": 36,
+      "features": 0
+    },
+    "syntax": {
+      "tokens": [
+        {
+          "text": "Que",
+          "part_of_speech": "ADP",
+          "location": [
+            0,
+            3
+          ],
+          "lemma": "que"
+        },
+        {
+          "text": "horas",
+          "part_of_speech": "NOUN",
+          "location": [
+            4,
+            9
+          ],
+          "lemma": "hora"
+        },
+        {
+          "text": "você",
+          "part_of_speech": "PRON",
+          "location": [
+            10,
+            14
+          ],
+          "lemma": "tu"
+        },
+        {
+          "text": "acorda",
+          "part_of_speech": "VERB",
+          "location": [
+            15,
+            21
+          ],
+          "lemma": "acordar"
+        },
+        {
+          "text": "todos",
+          "part_of_speech": "DET",
+          "location": [
+            22,
+            27
+          ],
+          "lemma": "todo"
+        },
+        {
+          "text": "os",
+          "part_of_speech": "DET",
+          "location": [
+            28,
+            30
+          ],
+          "lemma": "o"
+        },
+        {
+          "text": "dias",
+          "part_of_speech": "NOUN",
+          "location": [
+            31,
+            35
+          ],
+          "lemma": "dia"
+        },
+        {
+          "text": "?",
+          "part_of_speech": "PUNCT",
+          "location": [
+            35,
+            36
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Que horas você acorda todos os dias?",
+          "location": [
+            0,
+            36
+          ]
+        }
+      ]
+    },
+    "language": "pt",
+    "warnings": [
+      "semantic_roles: unsupported text language: pt"
+    ],
+    "text": "Que horas você acorda todos os dias?",
+    "hash": "ADP0_NOUN0_PRON0_VERB0_DET0_DET1_NOUN1_PUNCT0",
+    "md5": "aefeb048bb6d8dabc8beb3e4bb37cbc6"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bc4c8986be0a4820d26ee"
+    },
+    "usage": {
+      "text_units": 1,
+      "text_characters": 25,
+      "features": 0
+    },
+    "syntax": {
+      "tokens": [
+        {
+          "text": "Onde",
+          "part_of_speech": "ADV",
+          "location": [
+            0,
+            4
+          ],
+          "lemma": "onde"
+        },
+        {
+          "text": "está",
+          "part_of_speech": "AUX",
+          "location": [
+            5,
+            9
+          ],
+          "lemma": "estar"
+        },
+        {
+          "text": "o",
+          "part_of_speech": "DET",
+          "location": [
+            10,
+            11
+          ],
+          "lemma": "o"
+        },
+        {
+          "text": "auto",
+          "part_of_speech": "NOUN",
+          "location": [
+            12,
+            16
+          ],
+          "lemma": "auto"
+        },
+        {
+          "text": "-",
+          "part_of_speech": "PUNCT",
+          "location": [
+            16,
+            17
+          ]
+        },
+        {
+          "text": "falante",
+          "part_of_speech": "NOUN",
+          "location": [
+            17,
+            24
+          ],
+          "lemma": "falante"
+        },
+        {
+          "text": "?",
+          "part_of_speech": "PUNCT",
+          "location": [
+            24,
+            25
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Onde está o auto-falante?",
+          "location": [
+            0,
+            25
+          ]
+        }
+      ]
+    },
+    "language": "pt",
+    "warnings": [
+      "semantic_roles: unsupported text language: pt"
+    ],
+    "text": "Onde está o auto-falante?",
+    "hash": "ADV0_AUX0_DET0_NOUN0_PUNCT0_NOUN1_PUNCT1",
+    "md5": "e78bdfa8d3524615f2723353334c00ba"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bc4ef986be0a4820d26f1"
+    },
+    "usage": {
+      "text_units": 1,
+      "text_characters": 19,
+      "features": 0
+    },
+    "syntax": {
+      "tokens": [
+        {
+          "text": "O",
+          "part_of_speech": "DET",
+          "location": [
+            0,
+            1
+          ],
+          "lemma": "o"
+        },
+        {
+          "text": "ano",
+          "part_of_speech": "NOUN",
+          "location": [
+            2,
+            5
+          ],
+          "lemma": "ano"
+        },
+        {
+          "text": "tem",
+          "part_of_speech": "VERB",
+          "location": [
+            6,
+            9
+          ],
+          "lemma": "ter"
+        },
+        {
+          "text": "12",
+          "part_of_speech": "NUM",
+          "location": [
+            10,
+            12
+          ]
+        },
+        {
+          "text": "meses",
+          "part_of_speech": "NOUN",
+          "location": [
+            13,
+            18
+          ],
+          "lemma": "mês"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            18,
+            19
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "O ano tem 12 meses.",
+          "location": [
+            0,
+            19
+          ]
+        }
+      ]
+    },
+    "language": "pt",
+    "warnings": [
+      "semantic_roles: unsupported text language: pt"
+    ],
+    "text": "O ano tem 12 meses.",
+    "hash": "DET0_NOUN0_VERB0_NUM0_NOUN1_PUNCT0",
+    "md5": "c80718c815eeddd92bb4567395cfcdb3"
+  }
+]
