@@ -1,0 +1,37 @@
+[
+  {
+    "_id": {
+      "$oid": "5f5bbc0ec67db2a10d4127ce"
+    },
+    "signed": "NOUN0_PRON0_VERB0_SCONJ0_NOUN1_ADJ0_ADV0_PUNCT0",
+    "spoken": "PRON0_VERB0_DET0_NOUN0_SCONJ0_DET1_NOUN1_AUX0_ADV0_ADJ0_PUNCT0"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bbc37c67db2a10d4127d1"
+    },
+    "signed": "VERB0_ADJ0_NOUN0_VERB1_NOUN1_PRON0_PART0_VERB2_PUNCT0",
+    "spoken": "PRON0_AUX0_PART0_VERB0_VERB1_ADJ0_NOUN0_ADP0_NOUN1_PUNCT0"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bbc5ec67db2a10d4127d4"
+    },
+    "signed": "NOUN0_NOUN1_CCONJ0_ADJ0_PRON0_VERB0_PUNCT0",
+    "spoken": "AUX0_PRON0_VERB0_DET0_NOUN0_CCONJ0_ADJ0_NOUN1_PUNCT0"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bbc7cc67db2a10d4127d7"
+    },
+    "signed": "PRON0_NOUN0_VERB0_PART0_VERB1_NOUN1_PUNCT0",
+    "spoken": "PRON0_NOUN0_VERB0_PART0_VERB1_DET0_NOUN1_PUNCT0"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bbc9ac67db2a10d4127da"
+    },
+    "signed": "VERB0_ADJ0_SCONJ0_NOUN0_PUNCT0",
+    "spoken": "DET0_NOUN0_AUX0_ADJ0_ADP0_ADP1_DET1_NOUN1_PUNCT0"
+  }
+]

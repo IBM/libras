@@ -1,0 +1,550 @@
+[
+  {
+    "_id": {
+      "$oid": "5f5bbc0ec67db2a10d4127cc"
+    },
+    "usage": {
+      "text_units": 1,
+      "text_characters": 35,
+      "features": 1
+    },
+    "syntax": {
+      "tokens": [
+        {
+          "text": "Cap",
+          "part_of_speech": "NOUN",
+          "location": [
+            0,
+            3
+          ],
+          "lemma": "cap"
+        },
+        {
+          "text": "I",
+          "part_of_speech": "PRON",
+          "location": [
+            4,
+            5
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "need",
+          "part_of_speech": "VERB",
+          "location": [
+            6,
+            10
+          ],
+          "lemma": "need"
+        },
+        {
+          "text": "because",
+          "part_of_speech": "SCONJ",
+          "location": [
+            11,
+            18
+          ],
+          "lemma": "because"
+        },
+        {
+          "text": "sun",
+          "part_of_speech": "NOUN",
+          "location": [
+            19,
+            22
+          ],
+          "lemma": "sun"
+        },
+        {
+          "text": "strong",
+          "part_of_speech": "ADJ",
+          "location": [
+            23,
+            29
+          ],
+          "lemma": "strong"
+        },
+        {
+          "text": "very",
+          "part_of_speech": "ADV",
+          "location": [
+            30,
+            34
+          ],
+          "lemma": "very"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            34,
+            35
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Cap I need because sun strong very.",
+          "location": [
+            0,
+            35
+          ]
+        }
+      ]
+    },
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "I"
+        },
+        "sentence": "Cap I need because sun strong very.",
+        "object": {
+          "text": "Cap"
+        },
+        "action": {
+          "verb": {
+            "text": "need",
+            "tense": "present"
+          },
+          "text": "need",
+          "normalized": "need"
+        }
+      }
+    ],
+    "language": "en",
+    "text": "Cap I need because sun strong very.",
+    "hash": "NOUN0_PRON0_VERB0_SCONJ0_NOUN1_ADJ0_ADV0_PUNCT0",
+    "md5": "a1a49c2fbb4f69ad6ea283b198fda7be"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bbc37c67db2a10d4127cf"
+    },
+    "usage": {
+      "text_units": 1,
+      "text_characters": 38,
+      "features": 1
+    },
+    "syntax": {
+      "tokens": [
+        {
+          "text": "Eat",
+          "part_of_speech": "VERB",
+          "location": [
+            0,
+            3
+          ],
+          "lemma": "eat"
+        },
+        {
+          "text": "hot",
+          "part_of_speech": "ADJ",
+          "location": [
+            4,
+            7
+          ],
+          "lemma": "hot"
+        },
+        {
+          "text": "dog",
+          "part_of_speech": "NOUN",
+          "location": [
+            8,
+            11
+          ],
+          "lemma": "dog"
+        },
+        {
+          "text": "put",
+          "part_of_speech": "VERB",
+          "location": [
+            12,
+            15
+          ],
+          "lemma": "put"
+        },
+        {
+          "text": "mayonnaise",
+          "part_of_speech": "NOUN",
+          "location": [
+            16,
+            26
+          ],
+          "lemma": "mayonnaise"
+        },
+        {
+          "text": "I",
+          "part_of_speech": "PRON",
+          "location": [
+            27,
+            28
+          ],
+          "lemma": "I"
+        },
+        {
+          "text": "not",
+          "part_of_speech": "PART",
+          "location": [
+            29,
+            32
+          ],
+          "lemma": "not"
+        },
+        {
+          "text": "like",
+          "part_of_speech": "VERB",
+          "location": [
+            33,
+            37
+          ],
+          "lemma": "like"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            37,
+            38
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Eat hot dog put mayonnaise I not like.",
+          "location": [
+            0,
+            38
+          ]
+        }
+      ]
+    },
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "mayonnaise"
+        },
+        "sentence": "Eat hot dog put mayonnaise I not like.",
+        "object": {
+          "text": "I not like"
+        },
+        "action": {
+          "verb": {
+            "text": "put",
+            "tense": "past"
+          },
+          "text": "put",
+          "normalized": "put"
+        }
+      },
+      {
+        "subject": {
+          "text": "I"
+        },
+        "sentence": "Eat hot dog put mayonnaise I not like.",
+        "object": {
+          "text": "mayonnaise"
+        },
+        "action": {
+          "verb": {
+            "text": "like",
+            "tense": "present",
+            "negated": true
+          },
+          "text": "like",
+          "normalized": "like"
+        }
+      }
+    ],
+    "language": "en",
+    "text": "Eat hot dog put mayonnaise I not like.",
+    "hash": "VERB0_ADJ0_NOUN0_VERB1_NOUN1_PRON0_PART0_VERB2_PUNCT0",
+    "md5": "f8d55f93184782e282bc2aa3e6ba54ad"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bbc5ec67db2a10d4127d2"
+    },
+    "usage": {
+      "text_units": 1,
+      "text_characters": 31,
+      "features": 1
+    },
+    "syntax": {
+      "tokens": [
+        {
+          "text": "Tray",
+          "part_of_speech": "NOUN",
+          "location": [
+            0,
+            4
+          ],
+          "lemma": "tray"
+        },
+        {
+          "text": "silver",
+          "part_of_speech": "NOUN",
+          "location": [
+            5,
+            11
+          ],
+          "lemma": "silver"
+        },
+        {
+          "text": "or",
+          "part_of_speech": "CCONJ",
+          "location": [
+            12,
+            14
+          ],
+          "lemma": "or"
+        },
+        {
+          "text": "wooden",
+          "part_of_speech": "ADJ",
+          "location": [
+            15,
+            21
+          ],
+          "lemma": "wooden"
+        },
+        {
+          "text": "you",
+          "part_of_speech": "PRON",
+          "location": [
+            22,
+            25
+          ],
+          "lemma": "you"
+        },
+        {
+          "text": "have",
+          "part_of_speech": "VERB",
+          "location": [
+            26,
+            30
+          ],
+          "lemma": "have"
+        },
+        {
+          "text": "?",
+          "part_of_speech": "PUNCT",
+          "location": [
+            30,
+            31
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Tray silver or wooden you have?",
+          "location": [
+            0,
+            31
+          ]
+        }
+      ]
+    },
+    "semantic_roles": [],
+    "language": "en",
+    "text": "Tray silver or wooden you have?",
+    "hash": "NOUN0_NOUN1_CCONJ0_ADJ0_PRON0_VERB0_PUNCT0",
+    "md5": "956697d1e6980a53ef9d8ca39cd86287"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bbc7cc67db2a10d4127d5"
+    },
+    "usage": {
+      "text_units": 1,
+      "text_characters": 27,
+      "features": 1
+    },
+    "syntax": {
+      "tokens": [
+        {
+          "text": "My",
+          "part_of_speech": "PRON",
+          "location": [
+            0,
+            2
+          ],
+          "lemma": "my"
+        },
+        {
+          "text": "son",
+          "part_of_speech": "NOUN",
+          "location": [
+            3,
+            6
+          ],
+          "lemma": "son"
+        },
+        {
+          "text": "want",
+          "part_of_speech": "VERB",
+          "location": [
+            7,
+            11
+          ],
+          "lemma": "want"
+        },
+        {
+          "text": "to",
+          "part_of_speech": "PART",
+          "location": [
+            12,
+            14
+          ],
+          "lemma": "to"
+        },
+        {
+          "text": "buy",
+          "part_of_speech": "VERB",
+          "location": [
+            15,
+            18
+          ],
+          "lemma": "buy"
+        },
+        {
+          "text": "battery",
+          "part_of_speech": "NOUN",
+          "location": [
+            19,
+            26
+          ],
+          "lemma": "battery"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            26,
+            27
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "My son want to buy battery.",
+          "location": [
+            0,
+            27
+          ]
+        }
+      ]
+    },
+    "semantic_roles": [
+      {
+        "subject": {
+          "text": "My son"
+        },
+        "sentence": "My son want to buy battery.",
+        "object": {
+          "text": "to buy battery"
+        },
+        "action": {
+          "verb": {
+            "text": "want",
+            "tense": "present"
+          },
+          "text": "want",
+          "normalized": "want"
+        }
+      },
+      {
+        "subject": {
+          "text": "My son"
+        },
+        "sentence": "My son want to buy battery.",
+        "object": {
+          "text": "battery"
+        },
+        "action": {
+          "verb": {
+            "text": "buy",
+            "tense": "future"
+          },
+          "text": "want to buy",
+          "normalized": "want to buy"
+        }
+      }
+    ],
+    "language": "en",
+    "text": "My son want to buy battery.",
+    "hash": "PRON0_NOUN0_VERB0_PART0_VERB1_NOUN1_PUNCT0",
+    "md5": "f34f0325f6082ee4a76736daab515725"
+  },
+  {
+    "_id": {
+      "$oid": "5f5bbc9ac67db2a10d4127d8"
+    },
+    "usage": {
+      "text_units": 1,
+      "text_characters": 23,
+      "features": 1
+    },
+    "syntax": {
+      "tokens": [
+        {
+          "text": "Shirt",
+          "part_of_speech": "VERB",
+          "location": [
+            0,
+            5
+          ],
+          "lemma": "shirt"
+        },
+        {
+          "text": "wet",
+          "part_of_speech": "ADJ",
+          "location": [
+            6,
+            9
+          ],
+          "lemma": "wet"
+        },
+        {
+          "text": "because",
+          "part_of_speech": "SCONJ",
+          "location": [
+            10,
+            17
+          ],
+          "lemma": "because"
+        },
+        {
+          "text": "rain",
+          "part_of_speech": "NOUN",
+          "location": [
+            18,
+            22
+          ],
+          "lemma": "rain"
+        },
+        {
+          "text": ".",
+          "part_of_speech": "PUNCT",
+          "location": [
+            22,
+            23
+          ]
+        }
+      ],
+      "sentences": [
+        {
+          "text": "Shirt wet because rain.",
+          "location": [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "semantic_roles": [],
+    "language": "en",
+    "text": "Shirt wet because rain.",
+    "hash": "VERB0_ADJ0_SCONJ0_NOUN0_PUNCT0",
+    "md5": "c7bf8c08328719b15080ec6d71ed3210"
+  }
+]
