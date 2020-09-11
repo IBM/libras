@@ -1,11 +1,8 @@
 const MongoClient = require('mongodb').MongoClient
 const Server = require('mongodb').Server
+const config = require('src/config/mongo')
 
-const hostname = process.env.MONGODB_HOSTNAME || 'localhost'
-const port = process.env.MONGODB_PORT || 27017
-const poolSize = process.env.MONGODB_POOL || 5
-
-const options = { poolSize }
+const options = { poolSize: config.pool }
 
 let connection
 
@@ -14,7 +11,7 @@ module.exports.defaultDatabases = ['admin', 'config', 'local']
 module.exports.connect = async () => {
   if (isConnected()) return connection
 
-  const client = new MongoClient(new Server(hostname, port), options)
+  const client = new MongoClient(new Server(config.hostname, config.port), options)
   connection = await client.connect()
 
   return connection
