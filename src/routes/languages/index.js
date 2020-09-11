@@ -1,15 +1,15 @@
 /**
  * @swagger
  * tags:
- *   name: Data
- *   description: Data management
+ *   name: Languages
+ *   description: Supported languages
  */
 
 const express = require('express')
 const router = express.Router()
 const methods = require('requireindex')(__dirname)
 
-router.route('/data')
-  .post(methods.post)
+router.route('/languages')
+  .get(methods.get)
 
 module.exports = router

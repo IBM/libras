@@ -1,6 +1,22 @@
 version: '2.4'
 
 services:
+  mongo:
+    image: mongo:4
+    container_name: libras_mongo
+    cpu_shares: 512
+    mem_limit: 512m
+    memswap_limit: 512m
+    mem_reservation: 500m
+    ports:
+      - 27017:27017
+
+  mongo-express:
+    image: mongo-express
+    container_name: libras_mongo_express
+    ports:
+      - 8081:8081
+
   node: &node
     image: node:12-alpine
     container_name: libras_node
