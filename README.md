@@ -39,7 +39,7 @@ LOG_MAX_SIZE=10m
 LOG_MAX_FILES=7d
 ```
 
-By default, the application will try to connect to a MongoDB instance in `localhost:27017`. To change that, specify `MONGODB_HOSTNAME` and `MONGODB_PORT` values in `.env` file:
+Change MongoDB connection by specifying `MONGODB_HOSTNAME` and `MONGODB_PORT` values in `.env` file. The default values are:
 
 ```.env
 MONGODB_HOSTNAME=localhost
