@@ -8,7 +8,13 @@ Translation service between a spoken and a signed language.
 - [IBM Cloud Natural Language Understanding service](https://cloud.ibm.com/catalog/services/natural-language-understanding)
 - [MongoDB](https://www.mongodb.com)
 
-Optionally, this application and all the different tests can be [build and run in Docker](https://github.com/IBM/libras/wiki/Build-and-Run-in-Docker).
+Optionally, this application, the database and all the different tests can be [build and run in Docker](https://github.com/IBM/libras/wiki/Build-and-Run-in-Docker).
+
+To build and run only the database components in Docker, execute:
+
+```console
+docker-compose up -d mongo mongo-seed mongo-express
+```
 
 ## Setup
 
