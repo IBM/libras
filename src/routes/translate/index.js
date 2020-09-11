@@ -9,7 +9,8 @@ const express = require('express')
 const router = express.Router()
 const methods = require('requireindex')(__dirname)
 
-router.route('/translate')
+router.route('/translate/:language')
   .post(methods.post)
+  .get(methods.get)
 
 module.exports = router

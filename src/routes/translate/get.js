@@ -2,8 +2,8 @@
  * @swagger
  * path:
  *  /translate/{language}:
- *    post:
- *      summary: Insert translation
+ *    get:
+ *      summary: Translate signed to spoken language
  *      tags: [Translate]
  *      parameters:
  *        - in: path
@@ -12,15 +12,18 @@
  *            type: string
  *          required: true
  *          description: Signed language
- *      requestBody:
- *        required: true
- *        content:
- *          application/json:
- *            schema:
- *              $ref: '#/components/schemas/Translation'
+ *        - in: query
+ *          name: text
+ *          description: Text written in signed language
+ *          required: true
+ *          type: string
  *      responses:
  *        "200":
- *          description: Translation created
+ *          description: Text written in spoken language
+ *          content:
+ *            application/json:
+ *              schema:
+ *                $ref: '#/components/schemas/Translation'
  */
 
 const joi = require('joi')
@@ -31,9 +34,8 @@ const schema = joi.object({
   params: {
     language: joi.string().required()
   },
-  body: {
-    signed: joi.string().required(),
-    spoken: joi.string().required()
+  query: {
+    text: joi.string().required()
   }
 }).unknown(true)
 
@@ -42,7 +44,14 @@ module.exports = (req, res, next) => {
 
   if (error) throw new BadRequestError(error.message)
 
-  translations.create(value.params.language, value.body.signed, value.body.spoken)
-    .then(_ => { next(null, req, res) })
+  translations.retrieve(value.params.language, sanitize(value.query.text))
+    .then(response => {
+      res.locals = response
+      next(null, req, res)
+    })
     .catch(error => next(error))
+}
+
+function sanitize (text) {
+  return text.replace(/['"]+/g, '')
 }

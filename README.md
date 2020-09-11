@@ -2,11 +2,13 @@
 
 Translation service between a spoken and a signed language.
 
-Optionally, this application and all the different tests can be [build and run in Docker](https://github.com/IBM/libras/wiki/Build-and-Run-in-Docker).
-
 ## Prerequisites
 
 - [Node.js](https://nodejs.org)
+- [IBM Cloud Natural Language Understanding service](https://cloud.ibm.com/catalog/services/natural-language-understanding)
+- [MongoDB](https://www.mongodb.com)
+
+Optionally, this application and all the different tests can be [build and run in Docker](https://github.com/IBM/libras/wiki/Build-and-Run-in-Docker).
 
 ## Setup
 
@@ -14,6 +16,13 @@ Install project dependencies:
 
 ```console
 npm install
+```
+
+Create an `.env` file and set the IBM Cloud Natural Language Understanding service URL and API key by replacing `<NLU_URL>` and `<NLU_API_KEY>`:
+
+```.env
+NLU_URL=<NLU_URL>
+NLU_API_KEY=<NLU_API_KEY>
 ```
 
 ### Customize
@@ -28,6 +37,13 @@ LOG_LEVEL=info
 LOG_DIR=logs
 LOG_MAX_SIZE=10m
 LOG_MAX_FILES=7d
+```
+
+By default, the application will try to connect to a MongoDB instance in `localhost:27017`. To change that, specify `MONGODB_HOSTNAME` and `MONGODB_PORT` values in `.env` file:
+
+```.env
+MONGODB_HOSTNAME=localhost
+MONGODB_PORT=27017
 ```
 
 ## Run
