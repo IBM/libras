@@ -1,7 +1,7 @@
 const cluster = require('cluster')
 const os = require('os')
 
-const logger = require('src/components/logger')
+const logger = require('src/logger/index')
 
 if (cluster.isMaster) {
   logger.info('Master started', { pid: process.pid })

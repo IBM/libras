@@ -1,5 +1,5 @@
 const httpStatus = require('http-status')
-const logger = require('src/components/logger')
+const logger = require('src/logger/index')
 
 function error (err, req, res, next) {
   const unknownError = !err.statusCode

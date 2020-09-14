@@ -1,4 +1,4 @@
-const logger = require('src/components/logger')
+const logger = require('src/logger/index')
 
 function response (req, res, next) {
   const body = res.locals.constructor === Array || Object.keys(res.locals).length > 0

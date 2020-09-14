@@ -1,7 +1,7 @@
 const express = require('express')
 
 const config = require('src/config/server')
-const logger = require('src/components/logger')
+const logger = require('src/logger/index')
 const security = require('src/middlewares/security')
 const request = require('src/middlewares/request')
 const response = require('src/middlewares/response')
