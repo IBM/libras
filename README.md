@@ -4,9 +4,7 @@ Translation service between a spoken and a signed language.
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org)
-- [IBM Cloud Natural Language Understanding service](https://cloud.ibm.com/catalog/services/natural-language-understanding)
-- [MongoDB](https://www.mongodb.com)
+- [Python](https://www.python.org/)
 
 Optionally, this application, the database and all the different tests can be [build and run in Docker](https://github.com/IBM/libras/wiki/Build-and-Run-in-Docker).
 
