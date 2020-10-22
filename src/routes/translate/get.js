@@ -47,6 +47,7 @@ module.exports = (req, res, next) => {
   translations.retrieve(value.params.language, sanitize(value.query.text))
     .then(response => {
       res.locals = response
+      res.set('Access-Control-Allow-Origin', '*')
       next(null, req, res)
     })
     .catch(error => next(error))
