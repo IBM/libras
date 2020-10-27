@@ -51,7 +51,7 @@ module.exports = (req, res, next) => {
       next(null, req, res)
     })
     .catch(error => next(error))
-}
+  }
 
 function sanitize (text) {
   return text.replace(/['"]+/g, '')
