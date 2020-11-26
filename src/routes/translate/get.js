@@ -29,6 +29,7 @@
 const joi = require('joi')
 const translations = require('src/controllers/translations')
 const BadRequestError = require('src/errors/bad-request')
+require('dotenv').config()
 
 const schema = joi.object({
   params: {
@@ -47,6 +48,18 @@ module.exports = (req, res, next) => {
   translations.retrieve(value.params.language, sanitize(value.query.text))
     .then(response => {
       res.locals = response
+      const allowedOriginsString = process.env.ALLOWED_ORIGINS
+      if (allowedOriginsString) {
+        if (allowedOriginsString === '*') {
+          res.set('Access-Control-Allow-Origin', '*')
+        } else {
+          const allowedOriginsArray = allowedOriginsString.split(',')
+          const requestOrigin = req.headers.origin
+          if (allowedOriginsArray.includes(requestOrigin)) {
+            res.set('Access-Control-Allow-Origin', requestOrigin)
+          }
+        }
+      }
       next(null, req, res)
     })
     .catch(error => next(error))

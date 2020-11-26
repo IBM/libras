@@ -3,15 +3,17 @@ const mongo = require('src/databases/mongo')
 const NotFoundError = require('src/errors/not-found')
 
 module.exports = async (language, signed) => {
+  const translationData = { signed, spoken: null }
   const signedProcessedText = await text.process(signed)
-
   const translation = await retrieveData(language, 'translations', { signed: signedProcessedText.hash })
 
-  if (!translation) throw new NotFoundError()
+  if (!translation) {
+    throw new NotFoundError()
+  }
 
   const spoken = await retrieveData(language, 'spoken', { hash: translation.spoken })
-
-  return { signed, spoken: spoken.text }
+  translationData.spoken = spoken ? spoken.text : null
+  return translationData
 }
 
 function retrieveData (language, collection, query) {

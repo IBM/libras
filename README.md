@@ -31,6 +31,20 @@ NLU_URL=<NLU_URL>
 NLU_API_KEY=<NLU_API_KEY>
 ```
 
+In the same `.env` file, add a comma separated list of origins that will be allowed to make cross site requests.
+
+If any origin can make the requests, just use the "*" value.
+
+```
+ALLOWED_ORIGINS=<ALLOWED_ORIGINS>
+```
+
+For example:
+```
+ALLOWED_ORIGINS=http://localhost:3001
+```
+
+
 ### Customize
 
 Create an `.env` file to start the application in [cluster mode](https://nodejs.org/api/cluster.html#cluster_cluster), change its running port, log level, directory and maximum size. The variable names and default values are:
