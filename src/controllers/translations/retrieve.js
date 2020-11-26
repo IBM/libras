@@ -1,5 +1,6 @@
 const text = require('src/controllers/text')
 const mongo = require('src/databases/mongo')
+const NotFoundError = require('src/errors/not-found')
 
 module.exports = async (language, signed) => {
   const translationData = { signed, spoken: null }

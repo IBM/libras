@@ -48,13 +48,13 @@ module.exports = (req, res, next) => {
   translations.retrieve(value.params.language, sanitize(value.query.text))
     .then(response => {
       res.locals = response
-      const allowedOriginsString = process.env.ALLOWED_ORIGINS;
+      const allowedOriginsString = process.env.ALLOWED_ORIGINS
       if (allowedOriginsString) {
-        if (allowedOriginsString === "*") {
+        if (allowedOriginsString === '*') {
           res.set('Access-Control-Allow-Origin', '*')
         } else {
-          const allowedOriginsArray = allowedOriginsString.split(",")
-          const requestOrigin = req.headers.origin;
+          const allowedOriginsArray = allowedOriginsString.split(',')
+          const requestOrigin = req.headers.origin
           if (allowedOriginsArray.includes(requestOrigin)) {
             res.set('Access-Control-Allow-Origin', requestOrigin)
           }
