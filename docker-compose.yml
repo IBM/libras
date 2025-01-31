@@ -24,7 +24,7 @@ services:
       - 8081:8081
 
   node: &node
-    image: node:12-alpine
+    image: node:16-alpine
     container_name: libras_node
     volumes:
       - ./:/node
